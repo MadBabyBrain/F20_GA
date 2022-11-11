@@ -4,4 +4,4 @@
 
 ## Output
 
-![Video](https://github.com/MadBabyBrain/F20_GA/blob/main/Animation/Video.mp4)
+https://user-images.githubusercontent.com/46905566/201343025-a954c015-141e-4fe3-8fb1-97d18c38c2c1.mp4
