@@ -1,0 +1,1508 @@
+﻿Log file open, 11/11/22 03:57:06
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=12472)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: World_V1
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "../../../../University/4th_Year/F20GA/F20_GA/Animation/Animation_V1/World_V1 5.0/World_V1.uproject" MoviePipelineEntryMap?game=/Script/MovieRenderPipelineCore.MoviePipelineGameMode -game -Multiprocess -NoLoadingScreen -FixedSeed -log -Unattended -MRQInstance -messaging -SessionName="NewProcess Movie Render" -nohmd -windowed -ResX=1280 -ResY=720 -dpcvars=sg.ViewDistanceQuality=4,sg.AntiAliasingQuality=4,sg.ShadowQuality=4,sg.GlobalIlluminationQuality=4,sg.ReflectionQuality=4,sg.PostProcessQuality=4,sg.TextureQuality=4,sg.EffectsQuality=4,sg.FoliageQuality=4,sg.ShadingQuality=4,r.TextureStreaming=0,r.ForceLOD=0,r.SkeletalMeshLODBias=-10,r.ParticleLODBias=-10,foliage.DitheredLOD=0,foliage.ForceLOD=0,r.Shadow.DistanceScale=10,r.Shadow.RadiusThreshold=0.001000,r.ShadowQuality=5,r.ViewDistanceScale=50,r.D3D12.GPUTimeout=0,GeometryCache.Streamer.BlockTillFinishStreaming=1,GeometryCache.Streamer.ShowNotification=0,a.URO.Enable=0,r.SkyLight.RealTimeReflectionCapture.TimeSlice=0, -execcmds="r.HLOD 0," -MoviePipelineConfig=MovieRenderPipeline/QueueManifest.utxt""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) [10.0.19044.2130] "
+LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 5 3600 6-Core Processor"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="71178aa142d2bd570e23459514accd22"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.271788
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-12BC9A26460F2879F5B0AEB7E790D452
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Mac ini files took 0.04 seconds
+LogConfig: Display: Loading IOS ini files took 0.04 seconds
+LogConfig: Display: Loading Android ini files took 0.04 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.04 seconds
+LogConfig: Display: Loading Unix ini files took 0.05 seconds
+LogConfig: Display: Loading TVOS ini files took 0.05 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.06 seconds
+LogConfig: Display: Loading Linux ini files took 0.06 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.03 seconds
+LogConfig: Display: Loading Windows ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin LiveLink
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin Composure
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin OpenColorIO
+LogPluginManager: Mounting Engine plugin OpenCVLensDistortion
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VariantManager
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin BlueprintMaterialTextureNodes
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AppleProResMedia
+LogPluginManager: Mounting Engine plugin AjaMedia
+LogPluginManager: Mounting Engine plugin BlackmagicMedia
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin HAPMedia
+LogPluginManager: Mounting Engine plugin HardwareEncoders
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaFrameworkUtilities
+LogPluginManager: Mounting Engine plugin PixelStreaming
+LogPluginManager: Mounting Engine plugin MediaIOFramework
+LogPluginManager: Mounting Engine plugin TimecodeSynchronizer
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin MovieRenderPipeline
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin ColorCorrectRegions
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin RemoteSession
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin VirtualCamera
+LogPluginManager: Mounting Engine plugin VirtualProductionUtilities
+LogPluginManager: Mounting Engine plugin WebSocketNetworking
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin CameraCalibrationCore
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin MultiUserTakes
+LogPluginManager: Mounting Engine plugin RemoteControlInterception
+LogPluginManager: Mounting Engine plugin RemoteControl
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HDRIBackdrop
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin Takes
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin nDisplay
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin OpenCV
+LogPluginManager: Mounting Engine plugin OpenXR
+LogPluginManager: Mounting Engine plugin OSC
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin SunPosition
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ConcertMain
+LogPluginManager: Mounting Engine plugin MultiUserClient
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin ARUtilities
+LogPluginManager: Mounting Engine plugin SQLiteCore
+LogPluginManager: Mounting Engine plugin DMXProtocol
+LogPluginManager: Mounting Engine plugin OculusVR
+LogPluginManager: Mounting Engine plugin SteamVR
+LogPluginManager: Mounting Engine plugin ConcertSyncClient
+LogPluginManager: Mounting Engine plugin ConcertSyncCore
+LogPluginManager: Mounting Engine plugin AppleARKitFaceSupport
+LogPluginManager: Mounting Engine plugin AppleARKit
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Compositing/Composure/Content/' mounted to '/Composure/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Compositing/OpenColorIO/Content/' mounted to '/OpenColorIO/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Compositing/OpenCVLensDistortion/Content/' mounted to '/OpenCVLensDistortion/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/AjaMedia/Content/' mounted to '/AjaMedia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaFrameworkUtilities/Content/' mounted to '/MediaFrameworkUtilities/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/PixelStreaming/Content/' mounted to '/PixelStreaming/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/MovieRenderPipeline/Content/' mounted to '/MovieRenderPipeline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ColorCorrectRegions/Content/' mounted to '/ColorCorrectRegions/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/RemoteSession/Content/' mounted to '/RemoteSession/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/VirtualCamera/Content/' mounted to '/VirtualCamera/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/VirtualProductionUtilities/Content/' mounted to '/VirtualProductionUtilities/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/VirtualProduction/CameraCalibrationCore/Content/' mounted to '/CameraCalibrationCore/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/VirtualProduction/MultiUserTakes/Content/' mounted to '/MultiUserTakes/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/VirtualProduction/RemoteControl/Content/' mounted to '/RemoteControl/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HDRIBackdrop/Content/' mounted to '/HDRIBackdrop/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/VirtualProduction/Takes/Content/' mounted to '/Takes/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/nDisplay/Content/' mounted to '/nDisplay/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/OpenCV/Content/' mounted to '/OpenCV/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/OpenXR/Content/' mounted to '/OpenXR/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/SunPosition/Content/' mounted to '/SunPosition/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AR/ARUtilities/Content/' mounted to '/ARUtilities/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Oculus/OculusVR/Content/' mounted to '/OculusVR/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Steam/SteamVR/Content/' mounted to '/SteamVR/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Content/' mounted to '/ConcertSyncClient/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AR/AppleAR/AppleARKitFaceSupport/Content/' mounted to '/AppleARKitFaceSupport/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AR/AppleAR/AppleARKit/Content/' mounted to '/AppleARKit/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogWindows: Failed to load 'amfrt64.dll' (GetLastError=126)
+LogWindows: File 'amfrt64.dll' does not exist
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogD3D11RHI: D3D11 min allowed feature level: 11_0
+LogD3D11RHI: D3D11 max allowed feature level: 11_1
+LogD3D11RHI: D3D11 adapters:
+LogD3D11RHI: Testing D3D11 Adapter 0:
+LogD3D11RHI:     Description : NVIDIA GeForce GTX 1660 SUPER
+LogD3D11RHI:     VendorId    : 10de
+LogD3D11RHI:     DeviceId    : 21c4
+LogD3D11RHI:     SubSysId    : 552719da
+LogD3D11RHI:     Revision    : 00a1
+LogD3D11RHI:     DedicatedVideoMemory : 6283067392 bytes
+LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+LogD3D11RHI:     SharedSystemMemory : 17139701760 bytes
+LogD3D11RHI:     AdapterLuid : 0 71565
+LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1660 SUPER' (Feature Level 11_1)
+LogD3D11RHI:       5992/0/16345 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+LogD3D11RHI: Testing D3D11 Adapter 1:
+LogD3D11RHI:     Description : Microsoft Basic Render Driver
+LogD3D11RHI:     VendorId    : 1414
+LogD3D11RHI:     DeviceId    : 008c
+LogD3D11RHI:     SubSysId    : 0000
+LogD3D11RHI:     Revision    : 0000
+LogD3D11RHI:     DedicatedVideoMemory : 0 bytes
+LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+LogD3D11RHI:     SharedSystemMemory : 17139701760 bytes
+LogD3D11RHI:     AdapterLuid : 0 74872
+LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_1)
+LogD3D11RHI:       0/0/16345 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+LogD3D11RHI: Chosen D3D11 Adapter:
+LogD3D11RHI:     Description : NVIDIA GeForce GTX 1660 SUPER
+LogD3D11RHI:     VendorId    : 10de
+LogD3D11RHI:     DeviceId    : 21c4
+LogD3D11RHI:     SubSysId    : 552719da
+LogD3D11RHI:     Revision    : 00a1
+LogD3D11RHI:     DedicatedVideoMemory : 6283067392 bytes
+LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+LogD3D11RHI:     SharedSystemMemory : 17139701760 bytes
+LogD3D11RHI:     AdapterLuid : 0 71565
+LogCUDA: Display: CUDA module ready pending PostEngineInit.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H2) [10.0.19044.2130] (), CPU: AMD Ryzen 5 3600 6-Core Processor              , GPU: NVIDIA GeForce GTX 1660 SUPER
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line:  MoviePipelineEntryMap?game=/Script/MovieRenderPipelineCore.MoviePipelineGameMode -game -Multiprocess -NoLoadingScreen -FixedSeed -log -Unattended -MRQInstance -messaging -SessionName="NewProcess Movie Render" -nohmd -windowed -ResX=1280 -ResY=720 -dpcvars=sg.ViewDistanceQuality=4,sg.AntiAliasingQuality=4,sg.ShadowQuality=4,sg.GlobalIlluminationQuality=4,sg.ReflectionQuality=4,sg.PostProcessQuality=4,sg.TextureQuality=4,sg.EffectsQuality=4,sg.FoliageQuality=4,sg.ShadingQuality=4,r.TextureStreaming=0,r.ForceLOD=0,r.SkeletalMeshLODBias=-10,r.ParticleLODBias=-10,foliage.DitheredLOD=0,foliage.ForceLOD=0,r.Shadow.DistanceScale=10,r.Shadow.RadiusThreshold=0.001000,r.ShadowQuality=5,r.ViewDistanceScale=50,r.D3D12.GPUTimeout=0,GeometryCache.Streamer.BlockTillFinishStreaming=1,GeometryCache.Streamer.ShowNotification=0,a.URO.Enable=0,r.SkyLight.RealTimeReflectionCapture.TimeSlice=0, -execcmds="r.HLOD 0," -MoviePipelineConfig=MovieRenderPipeline/QueueManifest.utxt
+LogInit: Base Directory: D:/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.11.11-03.57.07:346][  0]LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+[2022.11.11-03.57.07:346][  0]LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+[2022.11.11-03.57.07:347][  0]LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+[2022.11.11-03.57.07:347][  0]LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+[2022.11.11-03.57.07:348][  0]LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+[2022.11.11-03.57.07:349][  0]LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.11.11-03.57.07:349][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.11.11-03.57.07:349][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.11.11-03.57.07:350][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.11.11-03.57.07:352][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.11.11-03.57.07:353][  0]LogConfig: CVar [[r.LightPropagationVolume:0]] deferred - dummy variable created
+[2022.11.11-03.57.07:353][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.11.11-03.57.07:354][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.11.11-03.57.07:355][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.11.11-03.57.07:355][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.11.11-03.57.07:356][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.11.11-03.57.07:356][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.11.11-03.57.07:356][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.11.11-03.57.07:357][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.11.11-03.57.07:357][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.11.11-03.57.07:358][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.11.11-03.57.07:358][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.11.11-03.57.07:360][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.11.11-03.57.07:362][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.11.11-03.57.07:362][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.11.11-03.57.07:363][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.11.11-03.57.07:363][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.11.11-03.57.07:364][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.11.11-03.57.07:364][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.11.11-03.57.07:365][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.11.11-03.57.07:366][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.11.11-03.57.07:368][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.11.11-03.57.07:369][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.11.11-03.57.07:369][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.11.11-03.57.07:369][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.11.11-03.57.07:370][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.11.11-03.57.07:371][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.11.11-03.57.07:372][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.11.11-03.57.07:372][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.11.11-03.57.07:373][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.11.11-03.57.07:374][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.11.11-03.57.07:374][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.11.11-03.57.07:375][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.11.11-03.57.07:375][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.11.11-03.57.07:375][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.11.11-03.57.07:376][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.11.11-03.57.07:376][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.11.11-03.57.07:377][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.11.11-03.57.07:377][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.11.11-03.57.07:378][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.11.11-03.57.07:378][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.11.11-03.57.07:379][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.11.11-03.57.07:379][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.11.11-03.57.07:379][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.11.11-03.57.07:380][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.11.11-03.57.07:380][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.11.11-03.57.07:380][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.11.11-03.57.07:381][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.11.11-03.57.07:384][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.11.11-03.57.07:386][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.11.11-03.57.07:387][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.11.11-03.57.07:388][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.11.11-03.57.07:388][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.11.11-03.57.07:388][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.11.11-03.57.07:405][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.11.11-03.57.07:406][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.11.11-03.57.07:407][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.11.11-03.57.07:407][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.11.11-03.57.07:407][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.11.11-03.57.07:408][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.11.11-03.57.07:408][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.11.11-03.57.07:408][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.11.11-03.57.07:409][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.11.11-03.57.07:409][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.11.11-03.57.07:410][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.11.11-03.57.07:415][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.11.11-03.57.07:416][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.11.11-03.57.07:416][  0]LogDeviceProfileManager: Setting CommandLine Device Profile CVar: [[sg.ViewDistanceQuality:4]]
+[2022.11.11-03.57.07:418][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@Cine] File [Scalability]
+[2022.11.11-03.57.07:419][  0]LogDeviceProfileManager: Setting CommandLine Device Profile CVar: [[sg.AntiAliasingQuality:4]]
+[2022.11.11-03.57.07:419][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@Cine] File [Scalability]
+[2022.11.11-03.57.07:420][  0]LogDeviceProfileManager: Setting CommandLine Device Profile CVar: [[sg.ShadowQuality:4]]
+[2022.11.11-03.57.07:421][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@Cine] File [Scalability]
+[2022.11.11-03.57.07:422][  0]LogDeviceProfileManager: Setting CommandLine Device Profile CVar: [[sg.GlobalIlluminationQuality:4]]
+[2022.11.11-03.57.07:423][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@Cine] File [Scalability]
+[2022.11.11-03.57.07:424][  0]LogDeviceProfileManager: Setting CommandLine Device Profile CVar: [[sg.ReflectionQuality:4]]
+[2022.11.11-03.57.07:426][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@Cine] File [Scalability]
+[2022.11.11-03.57.07:427][  0]LogDeviceProfileManager: Setting CommandLine Device Profile CVar: [[sg.PostProcessQuality:4]]
+[2022.11.11-03.57.07:427][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@Cine] File [Scalability]
+[2022.11.11-03.57.07:427][  0]LogDeviceProfileManager: Setting CommandLine Device Profile CVar: [[sg.TextureQuality:4]]
+[2022.11.11-03.57.07:428][  0]LogConfig: Applying CVar settings from Section [TextureQuality@Cine] File [Scalability]
+[2022.11.11-03.57.07:429][  0]LogDeviceProfileManager: Setting CommandLine Device Profile CVar: [[sg.EffectsQuality:4]]
+[2022.11.11-03.57.07:429][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@Cine] File [Scalability]
+[2022.11.11-03.57.07:430][  0]LogDeviceProfileManager: Setting CommandLine Device Profile CVar: [[sg.FoliageQuality:4]]
+[2022.11.11-03.57.07:432][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@Cine] File [Scalability]
+[2022.11.11-03.57.07:433][  0]LogDeviceProfileManager: Setting CommandLine Device Profile CVar: [[sg.ShadingQuality:4]]
+[2022.11.11-03.57.07:434][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@Cine] File [Scalability]
+[2022.11.11-03.57.07:435][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.11.11-03.57.07:436][  0]LogDeviceProfileManager: Setting CommandLine Device Profile CVar: [[r.TextureStreaming:0]]
+[2022.11.11-03.57.07:437][  0]LogDeviceProfileManager: Setting CommandLine Device Profile CVar: [[r.ForceLOD:0]]
+[2022.11.11-03.57.07:438][  0]LogDeviceProfileManager: Setting CommandLine Device Profile CVar: [[r.SkeletalMeshLODBias:-10]]
+[2022.11.11-03.57.07:439][  0]LogDeviceProfileManager: Setting CommandLine Device Profile CVar: [[r.ParticleLODBias:-10]]
+[2022.11.11-03.57.07:441][  0]LogDeviceProfileManager: Setting CommandLine Device Profile CVar: [[foliage.DitheredLOD:0]]
+[2022.11.11-03.57.07:442][  0]LogDeviceProfileManager: Setting CommandLine Device Profile CVar: [[foliage.ForceLOD:0]]
+[2022.11.11-03.57.07:443][  0]LogDeviceProfileManager: Setting CommandLine Device Profile CVar: [[r.Shadow.DistanceScale:10]]
+[2022.11.11-03.57.07:443][  0]LogDeviceProfileManager: Setting CommandLine Device Profile CVar: [[r.Shadow.RadiusThreshold:0.001000]]
+[2022.11.11-03.57.07:443][  0]LogDeviceProfileManager: Setting CommandLine Device Profile CVar: [[r.ShadowQuality:5]]
+[2022.11.11-03.57.07:444][  0]LogDeviceProfileManager: Setting CommandLine Device Profile CVar: [[r.ViewDistanceScale:50]]
+[2022.11.11-03.57.07:444][  0]LogDeviceProfileManager: Setting CommandLine Device Profile CVar: [[r.D3D12.GPUTimeout:0]]
+[2022.11.11-03.57.07:444][  0]LogDeviceProfileManager: Setting CommandLine Device Profile CVar: [[GeometryCache.Streamer.BlockTillFinishStreaming:1]]
+[2022.11.11-03.57.07:445][  0]LogConfig: CVar [[GeometryCache.Streamer.BlockTillFinishStreaming:1]] deferred - dummy variable created
+[2022.11.11-03.57.07:445][  0]LogDeviceProfileManager: Setting CommandLine Device Profile CVar: [[GeometryCache.Streamer.ShowNotification:0]]
+[2022.11.11-03.57.07:445][  0]LogConfig: CVar [[GeometryCache.Streamer.ShowNotification:0]] deferred - dummy variable created
+[2022.11.11-03.57.07:447][  0]LogDeviceProfileManager: Setting CommandLine Device Profile CVar: [[a.URO.Enable:0]]
+[2022.11.11-03.57.07:449][  0]LogDeviceProfileManager: Setting CommandLine Device Profile CVar: [[r.SkyLight.RealTimeReflectionCapture.TimeSlice:0]]
+[2022.11.11-03.57.07:449][  0]LogHAL: Display: Platform has ~ 32 GB [34279403520 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.11.11-03.57.07:450][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.11.11-03.57.07:450][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.11.11-03.57.07:450][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.11.11-03.57.07:451][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.11.11-03.57.07:451][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/University/4th_Year/F20GA/F20_GA/Animation/Animation_V1/World_V1 5.0/Saved/Config/WindowsEditor/Editor.ini]
+[2022.11.11-03.57.07:452][  0]LogInit: Computer: DESKTOP-OF2BMCS
+[2022.11.11-03.57.07:452][  0]LogInit: User: space
+[2022.11.11-03.57.07:453][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.11.11-03.57.07:453][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.11.11-03.57.07:453][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2022.11.11-03.57.07:454][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.11.11-03.57.07:454][  0]LogMemory: Process Physical Memory: 279.27 MB used, 279.28 MB peak
+[2022.11.11-03.57.07:454][  0]LogMemory: Process Virtual Memory: 218.09 MB used, 218.09 MB peak
+[2022.11.11-03.57.07:455][  0]LogMemory: Physical Memory: 18501.54 MB used,  14189.84 MB free, 32691.39 MB total
+[2022.11.11-03.57.07:455][  0]LogMemory: Virtual Memory: 34401.16 MB used,  22866.22 MB free, 57267.39 MB total
+[2022.11.11-03.57.07:456][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.11.11-03.57.07:461][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.11.11-03.57.07:471][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.11.11-03.57.07:471][  0]LogInit: Using OS detected language (en-GB).
+[2022.11.11-03.57.07:471][  0]LogInit: Using OS detected locale (en-GB).
+[2022.11.11-03.57.07:473][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so 'en' will be used for the language.
+[2022.11.11-03.57.07:626][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.11.11-03.57.07:626][  0]LogWindowsTextInputMethodSystem:   - English (United Kingdom) - (Keyboard).
+[2022.11.11-03.57.07:634][  0]LogWindowsTextInputMethodSystem:   - English (United Kingdom) - Touch Input Correction (TSF IME).
+[2022.11.11-03.57.07:634][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2022.11.11-03.57.07:663][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.11.11-03.57.07:664][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.11.11-03.57.07:681][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.11.11-03.57.07:681][  0]LogD3D11RHI:     GPU DeviceId: 0x21c4 (for the marketing name, search the web for "GPU Device Id")
+[2022.11.11-03.57.07:682][  0]LogWindows: Attached monitors:
+[2022.11.11-03.57.07:682][  0]LogWindows:     resolution: 2560x1440, work area: (0, 0) -> (2560, 1400), device: '\\.\DISPLAY1' [PRIMARY]
+[2022.11.11-03.57.07:682][  0]LogWindows:     resolution: 1920x1080, work area: (2560, 360) -> (4480, 1400), device: '\\.\DISPLAY2'
+[2022.11.11-03.57.07:683][  0]LogWindows: Found 2 attached monitors.
+[2022.11.11-03.57.07:684][  0]LogWindows: EnumDisplayDevices:
+[2022.11.11-03.57.07:684][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1660 SUPER' (P:1 D:1), name: '\\.\DISPLAY1'
+[2022.11.11-03.57.07:685][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1660 SUPER' (P:0 D:1), name: '\\.\DISPLAY2'
+[2022.11.11-03.57.07:685][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1660 SUPER' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.11.11-03.57.07:686][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1660 SUPER' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.11.11-03.57.07:686][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.11.11-03.57.07:686][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1660 SUPER
+[2022.11.11-03.57.07:687][  0]LogD3D11RHI:   Driver Version: 517.48 (internal:31.0.15.1748, unified:517.48)
+[2022.11.11-03.57.07:687][  0]LogD3D11RHI:      Driver Date: 9-21-2022
+[2022.11.11-03.57.07:687][  0]LogRHI: Texture pool is 4194 MB (70% of 5992 MB)
+[2022.11.11-03.57.07:688][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.11.11-03.57.07:688][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1660 SUPER
+[2022.11.11-03.57.07:688][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.11.11-03.57.07:689][  0]LogD3D11RHI:     DeviceId    : 21c4
+[2022.11.11-03.57.07:689][  0]LogD3D11RHI:     SubSysId    : 552719da
+[2022.11.11-03.57.07:689][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.11.11-03.57.07:690][  0]LogD3D11RHI:     DedicatedVideoMemory : 6283067392 bytes
+[2022.11.11-03.57.07:690][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.11.11-03.57.07:690][  0]LogD3D11RHI:     SharedSystemMemory : 17139701760 bytes
+[2022.11.11-03.57.07:691][  0]LogD3D11RHI:     AdapterLuid : 0 71565
+[2022.11.11-03.57.07:756][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.11.11-03.57.07:756][  0]LogD3D11RHI: Async texture creation enabled
+[2022.11.11-03.57.07:757][  0]LogD3D11RHI: D3D11_MAP_WRITE_NO_OVERWRITE for dynamic buffer SRVs is supported
+[2022.11.11-03.57.07:757][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.11.11-03.57.07:782][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2022.11.11-03.57.07:782][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.11.11-03.57.07:800][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.11.11-03.57.07:806][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.11.11-03.57.07:806][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.11.11-03.57.07:813][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.11.11-03.57.07:813][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.11.11-03.57.07:813][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.11.11-03.57.07:814][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.11.11-03.57.07:814][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.11.11-03.57.07:820][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.11.11-03.57.07:822][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.11.11-03.57.07:822][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.11.11-03.57.07:823][  0]LogTargetPlatformManager:   ADPCM
+[2022.11.11-03.57.07:823][  0]LogTargetPlatformManager:   PCM
+[2022.11.11-03.57.07:825][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.11.11-03.57.07:826][  0]LogTargetPlatformManager:   BINKA
+[2022.11.11-03.57.07:826][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.11.11-03.57.07:827][  0]LogTargetPlatformManager:   OGG
+[2022.11.11-03.57.07:827][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.11.11-03.57.07:828][  0]LogTargetPlatformManager:   OPUS
+[2022.11.11-03.57.07:861][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.11.11-03.57.07:861][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../University/4th_Year/F20GA/F20_GA/Animation/Animation_V1/World_V1 5.0/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.11.11-03.57.07:862][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.11.11-03.57.07:863][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../University/4th_Year/F20GA/F20_GA/Animation/Animation_V1/World_V1 5.0/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.11.11-03.57.07:864][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.11.11-03.57.07:868][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../University/4th_Year/F20GA/F20_GA/Animation/Animation_V1/World_V1 5.0/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.11.11-03.57.07:868][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.11.11-03.57.07:868][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../University/4th_Year/F20GA/F20_GA/Animation/Animation_V1/World_V1 5.0/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.11.11-03.57.07:869][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.11.11-03.57.07:892][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2022.11.11-03.57.07:892][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.11.11-03.57.07:893][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.11.11-03.57.07:901][  0]LogDerivedDataCache: Speed tests for C:/Users/space/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.11.11-03.57.07:901][  0]LogDerivedDataCache: Display: Performance to C:/Users/space/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=1258.03MBs, RandomWriteSpeed=190.10MBs. Assigned SpeedClass 'Local'
+[2022.11.11-03.57.07:903][  0]LogDerivedDataCache: Using Local data cache path C:/Users/space/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.11.11-03.57.07:904][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.11.11-03.57.07:905][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.11.11-03.57.07:913][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.11.11-03.57.07:913][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.11.11-03.57.07:914][  0]LogShaderCompilers: Guid format shader working directory is -35 characters bigger than the processId version (../../../../University/4th_Year/F20GA/F20_GA/Animation/Animation_V1/World_V1 5.0/Intermediate/Shaders/WorkingDirectory/16328/).
+[2022.11.11-03.57.07:916][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/space/AppData/Local/Temp/UnrealShaderWorkingDir/BEBE18814F0FBAD858283ABE103C2FBA/'.
+[2022.11.11-03.57.07:917][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.11.11-03.57.07:917][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 9 workers.
+[2022.11.11-03.57.09:101][  0]LogSlate: Using FreeType 2.10.0
+[2022.11.11-03.57.09:101][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.11.11-03.57.09:117][  0]LogInit: Using OS detected language (en-GB).
+[2022.11.11-03.57.09:117][  0]LogInit: Using OS detected locale (en-GB).
+[2022.11.11-03.57.09:118][  0]LogTextLocalizationManager: No localization for 'en-GB' exists, so 'en' will be used for the language.
+[2022.11.11-03.57.09:118][  0]LogTextLocalizationManager: No localization for 'en-GB' exists, so 'en' will be used for the locale.
+[2022.11.11-03.57.09:118][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2022.11.11-03.57.09:119][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2022.11.11-03.57.09:129][  0]LogAssetRegistry: FAssetRegistry took 0.0094 seconds to start up
+[2022.11.11-03.57.09:300][  0]LogPackageLocalizationCache: Processed 53 localized package path(s) for 1 prioritized culture(s) in 0.002225 seconds
+[2022.11.11-03.57.09:300][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.11.11-03.57.09:302][  0]LogTexture: Display: Texture Encode Speed: Final (cook).
+[2022.11.11-03.57.09:506][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.11.11-03.57.09:506][  0]LogDeviceProfileManager: Active device profile: [00000B7BF7A7A640][00000B7BF7EB2800 50] WindowsEditor
+[2022.11.11-03.57.09:508][  0]LogDeviceProfileManager: Profiles: [00000B7BF7A7A800][00000B7BF7EB0000 50] Windows, [00000B7BF7A7A640][00000B7BF7EB2800 50] WindowsEditor, [00000B7BF7A78340][00000B7BF7EB7800 50] WindowsServer, [00000B7BF7A79F40][00000B7BF7EBA000 50] WindowsClient, [00000B7BF7A77E00][00000B7BF7EBC800 50] IOS, [00000B7BF7A79BC0][00000B7BEEFD2800 50] iPadAir2, [00000B7BF7A7B280][00000B7BF7EC0000 50] IPadPro, [00000B7BF7A7B600][00000B7BF7EC2800 50] iPadAir3, [00000B7BF7A771C0][00000B7BF7EC7800 50] iPadAir4, [00000B7BF7A78A40][00000B7BF7ECA000 50] iPadMini4, [00000B7BF7A78500][00000B7BF7ECC800 50] iPadMini5, [00000B7BF7A78180][00000B7BF7EB5000 50] iPadMini6, [00000B7BF7A7E380][00000B7BF7EA2800 50] iPhone6S, [00000B7BF7A7E700][00000B7BF7EA0000 50] iPhone7, [00000B7BF7A7EA80][00000B7BF7EA5000 50] iPodTouch7, [00000B7BF7A7C240][00000B7BF7EAA000 50] iPhone6SPlus, [00000B7BF7A79A00][00000B7BF7EAC800 50] iPhone7Plus, [00000B7BF7A79140][00000B7BF7EC5000 50] iPhoneSE, [00000B7BF7A7CCC0][00000B7BF7EA7800 50] iPhone8, [00000B7BF7A77000][00000B7BF6830000 50] iPhone8Plus, [00000B7BF7A794C0][00000B7BF6835000 50] iPhoneX, [00000B7BF7A7C080][00000B7BF6837800 50] iPhoneXS, [00000B7BF7A7B7C0][00000B7BF683A000 50] iPhoneXSMax, [00000B7BF7A76040][00000B7BF683C800 50] iPhoneXR, [00000B7BF7A76E40][00000B7BE7C32800 50] iPhone11, [00000B7BF7A7A480][00000B7BF7F00000 50] iPhone11Pro, [00000B7BF7A7DC80][00000B7BF7F05000 50] iPhone11ProMax, [00000B7BF7A7B440][00000B7BF7F07800 50] iPhoneSE2, [00000B7BF7A7CB00][00000B7BF7F0A000 50] iPhone12Mini, [00000B7BF7A7B0C0][00000B7BF7F0C800 50] iPhone12, [00000B7BF7A7C940][00000B7BF6832800 50] iPhone12Pro, [00000B7BF7A77FC0][00000B7BF7F10000 50] iPhone12ProMax, [00000B7BF7A7D900][00000B7BF7F15000 50] iPhone13Mini, [00000B7BF7A7AF00][00000B7BF7F17800 50] iPhone13, [00000B7BF7A7C400][00000B7BF7F1A000 50] iPhone13Pro, [00000B7BF7A75E80][00000B7BF7F1C800 50] iPhone13ProMax, [00000B7BF7A7AD40][00000B7BF7F02800 50] iPadPro105, [00000B7BF7A7E8C0][00000B7BF7F20000 50] iPadPro129, [00000B7BF7A7A2C0][00000B7BF7F25000 50] iPadPro97, [00000B7BF7A7D580][00000B7BF7F27800 50] iPadPro2_129, [00000B7BF7A79300][00000B7BF7F2A000 50] iPad5, [00000B7BF7A7DE40][00000B7BF7F2C800 50] iPad6, [00000B7BF7A78C00][00000B7BF7F12800 50] iPad7, [00000B7BF7A7E540][00000B7BF7F30000 50] iPad8, [00000B7BF7A77C40][00000B7BF7F35000 50] iPad9, [00000B7BF7A77540][00000B7BF7F37800 50] iPadPro11, [00000B7BF7A7D740][00000B7BF7F3A000 50] iPadPro2_11, [00000B7BF7A76C80][00000B7BF7F3C800 50] iPadPro3_11, [00000B7BF7A79D80][00000B7BF7F22800 50] iPadPro3_129, [00000B7BF7A77380][00000B7BF7F40000 50] iPadPro4_129, [00000B7BF7A76AC0][00000B7BF7F45000 50] iPadPro5_129, [00000B7BF7A7B980][00000B7BF7F47800 50] AppleTV, [00000B7BF7A7AB80][00000B7BF7F4A000 50] AppleTV4K, [00000B7BF7A7D3C0][00000B7BF7F4C800 50] TVOS, [00000B7BF7F80540][00000B7BF7F60000 50] Mac, [00000B7BF7F808C0][00000B7BF7F62800 50] MacEditor, [00000B7BF7F824C0][00000B7BF7F67800 50] MacClient, [00000B7BF7F82BC0][00000B7BF7F6A000 50] MacServer, [00000B7BF7F84980][00000B7BF7F32800 50] Linux, [00000B7BF7F84D00][00000B7BF7F42800 50] LinuxEditor, [00000B7BF7F81F80][00000B7BF7F6C800 50] LinuxArm64Editor, [00000B7BF7F84440][00000B7BF7F50000 50] LinuxArm64, [00000B7BF7F82680][00000B7BF7F55000 50] LinuxClient, [00000B7BF7F839C0][00000B7BF7F57800 50] LinuxArm64Client, [00000B7BF7F801C0][00000B7BF7F5A000 50] LinuxServer, [00000B7BF7F83100][00000B7BF7F5C800 50] LinuxArm64Server, [00000B7BF7F82D80][00000B7BF7F65000 50] Android, [00000B7BF7F816C0][00000B7BF7F70000 50] Android_Preview_OpenGL, [00000B7BF7F81DC0][00000B7BF7F75000 50] Android_Preview_Vulkan, [00000B7BF7F80FC0][00000B7BF7F77800 50] Android_Low, [00000B7BF7F80E00][00000B7BF7F7A000 50] Android_Mid, [00000B7BF7F84B40][00000B7BF7F7C800 50] Android_High, [00000B7BF7F832C0][00000B7BF7F52800 50] Android_Default, [00000B7BF7F83800][00000B7BF7F90000 50] Android_Adreno4xx, [00000B7BF7F83D40][00000B7BF7F95000 50] Android_Adreno5xx_Low, [00000B7BF7F80C40][00000B7BF7F97800 50] Android_Adreno5xx, [00000B7BF7F84280][00000B7BF7F9A000 50] Android_Adreno6xx, [00000B7BF7F80700][00000B7BF7F9C800 50] Android_Adreno6xx_Vulkan, [00000B7BF7F847C0][00000B7BF7F72800 50] Android_Adreno7xx, [00000B7BF7F83B80][00000B7BF7FA0000 50] Android_Adreno7xx_Vulkan, [00000B7BF7F81C00][00000B7BF7FA5000 50] Android_Mali_T6xx, [00000B7BF7F82300][00000B7BF7FA7800 50] Android_Mali_T7xx, [00000B7BF7F80380][00000B7BF7FAA000 50] Android_Mali_T8xx, [00000B7BF7F80000][00000B7BF7FAC800 50] Android_Mali_G71, [00000B7BF7F81A40][00000B7BF7F92800 50] Android_Mali_G72, [00000B7BF7F83640][00000B7BF6840000 50] Android_Mali_G72_Vulkan, [00000B7BF7F82140][00000B7BF6845000 50] Android_Mali_G76, [00000B7BF7F81180][00000B7BF6847800 50] Android_Mali_G76_Vulkan, [00000B7BF7F81500][00000B7BF684A000 50] Android_Mali_G77, [00000B7BF7F85940][00000B7BF684C800 50] Android_Mali_G77_Vulkan, [00000B7BF7F85080][00000B7BF7FA2800 50] Android_Mali_G78, [00000B7BF7F83480][00000B7BF7FB0000 50] Android_Mali_G78_Vulkan, [00000B7BF7F82F40][00000B7BF7FB5000 50] Android_Mali_G710, [00000B7BF7F81880][00000B7BF7FB7800 50] Android_Mali_G710_Vulkan, [00000B7BF7F82A00][00000B7BF7FBA000 50] Android_Xclipse_920, [00000B7BF7F85400][00000B7BF7FBC800 50] Android_Xclipse_920_Vulkan, [00000B7BF7F86580][00000B7BF6842800 50] Android_Vulkan_SM5, [00000B7BF7F86E40][00000B7BF7FC0000 50] Android_PowerVR_G6xxx, [00000B7BF7F86C80][00000B7BF7FC5000 50] Android_PowerVR_GT7xxx, [00000B7BF7F87000][00000B7BF7FC7800 50] Android_PowerVR_GE8xxx, [00000B7BF7F84600][00000B7BF7FCA000 50] Android_PowerVR_GM9xxx, [00000B7BF7F86900][00000B7BF7FCC800 50] Android_PowerVR_GM9xxx_Vulkan, [00000B7BF7F871C0][00000B7BF7FB2800 50] Android_TegraK1, [00000B7BF7F86AC0][00000B7BF7FD0000 50] Android_Unknown_Vulkan, [00000B7BF7F87380][00000B7BF7FD5000 50] Oculus_Quest, [00000B7BF7F85780][00000B7BF7FD7800 50] Oculus_Quest2, [00000B7BF7F83F00][00000B7BF7FDA000 50] HoloLens, 
+[2022.11.11-03.57.09:508][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.11.11-03.57.09:523][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.11.11-03.57.09:686][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.11.11-03.57.09:686][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.11.11-03.57.09:687][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.11.11-03.57.09:687][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.11.11-03.57.09:688][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.11.11-03.57.09:708][  0]LogNetVersion: World_V1 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 962550343)
+[2022.11.11-03.57.09:929][  0]SourceControl: Source control is disabled
+[2022.11.11-03.57.09:956][  0]SourceControl: Source control is disabled
+[2022.11.11-03.57.09:956][  0]SourceControl: Source control is disabled
+[2022.11.11-03.57.10:096][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.11.11-03.57.10:315][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: F2B39658411FB650B2A89282968E2FBE | Instance: F36FE25646D27D87F919A2B248A0D3F8 (DESKTOP-OF2BMCS-16328).
+[2022.11.11-03.57.10:333][  0]LogCollectionManager: Loaded 0 collections in 0.000689 seconds
+[2022.11.11-03.57.10:337][  0]LogFileCache: Scanning file cache for directory 'D:/University/4th_Year/F20GA/F20_GA/Animation/Animation_V1/World_V1 5.0/Saved/Collections/' took 0.00s
+[2022.11.11-03.57.10:337][  0]LogFileCache: Scanning file cache for directory 'D:/University/4th_Year/F20GA/F20_GA/Animation/Animation_V1/World_V1 5.0/Content/Developers/space/Collections/' took 0.00s
+[2022.11.11-03.57.10:338][  0]LogFileCache: Scanning file cache for directory 'D:/University/4th_Year/F20GA/F20_GA/Animation/Animation_V1/World_V1 5.0/Content/Collections/' took 0.00s
+[2022.11.11-03.57.10:338][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2022.11.11-03.57.10:351][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.11.11-03.57.10:355][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.11.11-03.57.10:366][  0]LogPixelStreaming: Warning: Pixel Streaming audio component will not tick because Pixel Streaming module is not loaded. This is expected on dedicated servers.
+[2022.11.11-03.57.10:367][  0]LogPixelStreaming: Initialising Pixel Streaming settings.
+[2022.11.11-03.57.10:379][  0]LogPython: Using Python 3.9.7
+[2022.11.11-03.57.11:213][  0]SourceControl: Source control is disabled
+[2022.11.11-03.57.11:219][  0]LogUProjectInfo: Found projects:
+[2022.11.11-03.57.11:341][  0]LogMovieRenderPipeline: Detected that the user intends to render a movie. Waiting until engine loop init is complete to ensure 
+[2022.11.11-03.57.11:473][  0]LogOpenImageDenoise: OIDN starting up
+[2022.11.11-03.57.11:498][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.11.11-03.57.11:509][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.11.11-03.57.11:509][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.11.11-03.57.11:546][  0]LogRemoteControl: Display: Web remote control is disabled by default when running outside the editor. Use the -RCWebControlEnable flag when launching in order to use it.
+[2022.11.11-03.57.11:558][  0]LogDisplayClusterModule: Instantiating subsystem managers...
+[2022.11.11-03.57.11:558][  0]LogDisplayClusterRender: Registering factory for rendering device type: dc_dev_mono
+[2022.11.11-03.57.11:559][  0]LogDisplayClusterRender: Registered factory for rendering device type: dc_dev_mono
+[2022.11.11-03.57.11:560][  0]LogDisplayClusterRender: Registering factory for rendering device type: quad_buffer_stereo
+[2022.11.11-03.57.11:560][  0]LogDisplayClusterRender: Registered factory for rendering device type: quad_buffer_stereo
+[2022.11.11-03.57.11:561][  0]LogDisplayClusterRender: Registering factory for rendering device type: dc_dev_side_by_side
+[2022.11.11-03.57.11:561][  0]LogDisplayClusterRender: Registered factory for rendering device type: dc_dev_side_by_side
+[2022.11.11-03.57.11:561][  0]LogDisplayClusterRender: Registering factory for rendering device type: dc_dev_top_bottom
+[2022.11.11-03.57.11:562][  0]LogDisplayClusterRender: Registered factory for rendering device type: dc_dev_top_bottom
+[2022.11.11-03.57.11:562][  0]LogDisplayClusterRender: Registering factory for synchronization policy: none
+[2022.11.11-03.57.11:562][  0]LogDisplayClusterRender: Registered factory for synchronization policy: none
+[2022.11.11-03.57.11:563][  0]LogDisplayClusterRender: Registering factory for synchronization policy: ethernet
+[2022.11.11-03.57.11:563][  0]LogDisplayClusterRender: Registered factory for synchronization policy: ethernet
+[2022.11.11-03.57.11:564][  0]LogDisplayClusterRender: Registering factory for synchronization policy: ethernet_barrier
+[2022.11.11-03.57.11:564][  0]LogDisplayClusterRender: Registered factory for synchronization policy: ethernet_barrier
+[2022.11.11-03.57.11:564][  0]LogDisplayClusterRender: Registering factory for synchronization policy: nvidia
+[2022.11.11-03.57.11:565][  0]LogDisplayClusterRender: Registered factory for synchronization policy: nvidia
+[2022.11.11-03.57.11:565][  0]LogDisplayClusterModule: DisplayCluster module has been started
+[2022.11.11-03.57.11:568][  0]LogDisplayClusterProjection: Projection module has been instantiated
+[2022.11.11-03.57.11:568][  0]LogDisplayClusterProjection: Projection module startup
+[2022.11.11-03.57.11:569][  0]LogDisplayClusterProjection: Registering <camera> projection policy factory...
+[2022.11.11-03.57.11:569][  0]LogDisplayClusterRender: Registering factory for projection type: camera
+[2022.11.11-03.57.11:569][  0]LogDisplayClusterRender: Registered factory for projection type: camera
+[2022.11.11-03.57.11:570][  0]LogDisplayClusterProjection: Registering <simple> projection policy factory...
+[2022.11.11-03.57.11:570][  0]LogDisplayClusterRender: Registering factory for projection type: simple
+[2022.11.11-03.57.11:570][  0]LogDisplayClusterRender: Registered factory for projection type: simple
+[2022.11.11-03.57.11:571][  0]LogDisplayClusterProjection: Registering <mpcdi> projection policy factory...
+[2022.11.11-03.57.11:571][  0]LogDisplayClusterRender: Registering factory for projection type: mpcdi
+[2022.11.11-03.57.11:572][  0]LogDisplayClusterRender: Registered factory for projection type: mpcdi
+[2022.11.11-03.57.11:572][  0]LogDisplayClusterProjection: Registering <mesh> projection policy factory...
+[2022.11.11-03.57.11:572][  0]LogDisplayClusterRender: Registering factory for projection type: mesh
+[2022.11.11-03.57.11:573][  0]LogDisplayClusterRender: Registered factory for projection type: mesh
+[2022.11.11-03.57.11:573][  0]LogDisplayClusterProjection: Registering <easyblend> projection policy factory...
+[2022.11.11-03.57.11:573][  0]LogDisplayClusterRender: Registering factory for projection type: easyblend
+[2022.11.11-03.57.11:574][  0]LogDisplayClusterRender: Registered factory for projection type: easyblend
+[2022.11.11-03.57.11:574][  0]LogDisplayClusterProjection: Registering <vioso> projection policy factory...
+[2022.11.11-03.57.11:574][  0]LogDisplayClusterRender: Registering factory for projection type: vioso
+[2022.11.11-03.57.11:575][  0]LogDisplayClusterRender: Registered factory for projection type: vioso
+[2022.11.11-03.57.11:578][  0]LogDisplayClusterProjection: Registering <manual> projection policy factory...
+[2022.11.11-03.57.11:579][  0]LogDisplayClusterRender: Registering factory for projection type: manual
+[2022.11.11-03.57.11:580][  0]LogDisplayClusterRender: Registered factory for projection type: manual
+[2022.11.11-03.57.11:580][  0]LogDisplayClusterProjection: Registering <domeprojection> projection policy factory...
+[2022.11.11-03.57.11:582][  0]LogDisplayClusterRender: Registering factory for projection type: domeprojection
+[2022.11.11-03.57.11:583][  0]LogDisplayClusterRender: Registered factory for projection type: domeprojection
+[2022.11.11-03.57.11:584][  0]LogDisplayClusterProjection: Registering <link> projection policy factory...
+[2022.11.11-03.57.11:585][  0]LogDisplayClusterRender: Registering factory for projection type: link
+[2022.11.11-03.57.11:586][  0]LogDisplayClusterRender: Registered factory for projection type: link
+[2022.11.11-03.57.11:587][  0]LogDisplayClusterProjection: Projection module has started
+[2022.11.11-03.57.11:598][  0]LogDisplayClusterRemoteControlInterceptor: DisplayClusterRemoteControlInterceptor has been registered
+[2022.11.11-03.57.11:707][  0]LogOcInput: OculusInput pre-init called
+[2022.11.11-03.57.11:767][  0]LogUObjectArray: 32926 objects as part of root set at end of initial load.
+[2022.11.11-03.57.11:767][  0]LogUObjectAllocator: 9847256 out of 0 bytes used by permanent object pool.
+[2022.11.11-03.57.11:768][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.11.11-03.57.11:845][  0]LogDisplayClusterEngine: UDisplayClusterGameEngine::Init
+[2022.11.11-03.57.11:845][  0]LogDisplayClusterEngine: Detected operation mode: disabled
+[2022.11.11-03.57.11:846][  0]LogDisplayClusterModule: Initializing subsystems to disabled operation mode
+[2022.11.11-03.57.11:846][  0]LogEngine: Initializing Engine...
+[2022.11.11-03.57.11:850][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.11.11-03.57.12:010][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.11.11-03.57.12:010][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.11.11-03.57.12:015][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.11.11-03.57.12:015][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.11.11-03.57.12:016][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.11.11-03.57.12:018][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.11.11-03.57.12:019][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.11.11-03.57.12:020][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.11-03.57.12:020][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.11-03.57.12:021][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.11-03.57.12:022][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.11-03.57.12:022][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.11-03.57.12:023][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.11-03.57.12:024][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.11-03.57.12:025][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.11-03.57.12:026][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.11-03.57.12:026][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.11-03.57.12:026][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.11-03.57.12:033][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.11-03.57.12:068][  0]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2022.11.11-03.57.12:068][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.11-03.57.12:072][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.11-03.57.12:072][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.11-03.57.12:073][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.11.11-03.57.12:073][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.11.11-03.57.12:075][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.11.11-03.57.12:075][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.11.11-03.57.12:076][  0]LogInit: FAudioDevice initialized.
+[2022.11.11-03.57.12:077][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.11.11-03.57.12:078][  0]LogInit: Texture streaming: Disabled
+[2022.11.11-03.57.12:172][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.11.11-03.57.12:177][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.11-03.57.12:178][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.11-03.57.12:179][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.11.11-03.57.12:179][  0]LogEngine: GameWindow did not exist.  Was created
+[2022.11.11-03.57.12:241][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.11-03.57.12:261][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.11-03.57.12:261][  0]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.11.11-03.57.12:313][  0]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.11.11-03.57.12:334][  0]LogInit: Display: Game Engine Initialized.
+[2022.11.11-03.57.12:335][  0]LogNiagaraEditor: GEditor isn't valid! Particle reset commands will not work for Niagara components!
+[2022.11.11-03.57.12:346][  0]LogCUDA: Display: Initialising CUDA API...
+[2022.11.11-03.57.12:358][  0]LogCUDA: Display: CUDA API initialised successfully.
+[2022.11.11-03.57.12:358][  0]LogCUDA: Display: Found 1 CUDA capable devices.
+[2022.11.11-03.57.12:358][  0]LogCUDA: Display: Found device 0 called "NVIDIA GeForce GTX 1660 SUPER".
+[2022.11.11-03.57.12:359][  0]LogCUDA: Display: Attempting to create CUDA context on GPU Device 0...
+[2022.11.11-03.57.12:470][  0]LogCUDA: Display: Created CUDA context on device "NVIDIA GeForce GTX 1660 SUPER".
+[2022.11.11-03.57.12:499][  0]LogEncoderNVENC: Created D3D11 device for NVENC on 'NVIDIA GeForce GTX 1660 SUPER'.
+[2022.11.11-03.57.12:632][  0]LogWindows: Attached monitors:
+[2022.11.11-03.57.12:632][  0]LogWindows:     resolution: 2560x1440, work area: (0, 0) -> (2560, 1400), device: '\\.\DISPLAY1' [PRIMARY]
+[2022.11.11-03.57.12:633][  0]LogWindows:     resolution: 1920x1080, work area: (2560, 360) -> (4480, 1400), device: '\\.\DISPLAY2'
+[2022.11.11-03.57.12:633][  0]LogWindows: Found 2 attached monitors.
+[2022.11.11-03.57.12:634][  0]LogWindows: EnumDisplayDevices:
+[2022.11.11-03.57.12:634][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1660 SUPER' (P:1 D:1), name: '\\.\DISPLAY1'
+[2022.11.11-03.57.12:635][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1660 SUPER' (P:0 D:1), name: '\\.\DISPLAY2'
+[2022.11.11-03.57.12:635][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1660 SUPER' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.11.11-03.57.12:635][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1660 SUPER' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.11.11-03.57.12:636][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.11.11-03.57.12:637][  0]LogWindows: Attached monitors:
+[2022.11.11-03.57.12:639][  0]LogWindows:     resolution: 2560x1440, work area: (0, 0) -> (2560, 1400), device: '\\.\DISPLAY1' [PRIMARY]
+[2022.11.11-03.57.12:641][  0]LogWindows:     resolution: 1920x1080, work area: (2560, 360) -> (4480, 1400), device: '\\.\DISPLAY2'
+[2022.11.11-03.57.12:642][  0]LogWindows: Found 2 attached monitors.
+[2022.11.11-03.57.12:642][  0]LogWindows: EnumDisplayDevices:
+[2022.11.11-03.57.12:643][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1660 SUPER' (P:1 D:1), name: '\\.\DISPLAY1'
+[2022.11.11-03.57.12:644][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1660 SUPER' (P:0 D:1), name: '\\.\DISPLAY2'
+[2022.11.11-03.57.12:644][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1660 SUPER' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.11.11-03.57.12:644][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1660 SUPER' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.11.11-03.57.12:645][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.11.11-03.57.12:645][  0]LogInit: Display: Starting Game.
+[2022.11.11-03.57.12:645][  0]LogAssetRegistry: Warning: GetFirstPackageByName is being called in `-game` to resolve partial package name. This may cause a slow scan on disk. Consider using the fully qualified package name for better performance. 
+[2022.11.11-03.57.12:661][  0]LogPackageName: SearchForPackageOnDisk took   0.015s to resolve MoviePipelineEntryMap.
+[2022.11.11-03.57.12:661][  0]LogNet: Browse: /MovieRenderPipeline/MoviePipelineEntryMap?Name=Player?game=/Script/MovieRenderPipelineCore.MoviePipelineGameMode
+[2022.11.11-03.57.12:662][  0]LogDisplayClusterEngine: UDisplayClusterGameEngine::LoadMap, URL=/MovieRenderPipeline/MoviePipelineEntryMap?Name=Player?game=/Script/MovieRenderPipelineCore.MoviePipelineGameMode
+[2022.11.11-03.57.12:662][  0]LogLoad: LoadMap: /MovieRenderPipeline/MoviePipelineEntryMap?Name=Player?game=/Script/MovieRenderPipelineCore.MoviePipelineGameMode
+[2022.11.11-03.57.12:663][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2022.11.11-03.57.12:663][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.11.11-03.57.12:663][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.11-03.57.12:669][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.11-03.57.12:883][  0]LogAjaMedia: Error: GPU Direct failed to initialize.
+[2022.11.11-03.57.13:045][  0]LogAjaMedia: Error: GPU Direct failed to initialize.
+[2022.11.11-03.57.13:047][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.11.11-03.57.13:049][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MoviePipelineEntryMap'.
+[2022.11.11-03.57.13:049][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.11-03.57.13:049][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.11-03.57.13:055][  0]LogAIModule: Creating AISystem for world MoviePipelineEntryMap
+[2022.11.11-03.57.13:055][  0]LogLoad: Game class is 'MoviePipelineGameMode'
+[2022.11.11-03.57.13:060][  0]LogWorld: Bringing World /MovieRenderPipeline/MoviePipelineEntryMap.MoviePipelineEntryMap up for play (max tick rate 0) at 2022.11.11-03.57.13
+[2022.11.11-03.57.13:061][  0]LogWorld: Bringing up level for play took: 0.000652
+[2022.11.11-03.57.13:062][  0]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.11.11-03.57.13:066][  0]LogLoad: Took 0.404045 seconds to LoadMap(/MovieRenderPipeline/MoviePipelineEntryMap)
+[2022.11.11-03.57.13:075][  0]LogPixelStreaming: PixelStreaming is disabled, provide `PixelStreamingIP` and `PixelStreamingPort` cmd-args to enable it
+[2022.11.11-03.57.13:075][  0]LogBackChannel: Listening on FBackChannelConnection Client Socket (localport: 2049)
+[2022.11.11-03.57.13:075][  0]LogRemoteSession: Started listening on port 2049
+[2022.11.11-03.57.13:076][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.11.11-03.57.13:076][  0]LogLoad: (Engine Initialization) Total time: 7.30 seconds
+[2022.11.11-03.57.13:076][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.11.11-03.57.13:091][  0]LogHMD: Failed loading OVRPlugin 1.65.0
+[2022.11.11-03.57.13:141][  0]LogAutomationController: Ignoring very large delta of 17057475.60 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2022.11.11-03.57.13:188][  1]LogMovieRenderPipeline: Using default Movie Pipeline Executor . See '-MoviePipelineLocalExecutorClass' if you need to override this.
+[2022.11.11-03.57.13:189][  1]LogMovieRenderPipeline: Using default Movie Pipeline . See '-MoviePipelineClass' if you need to override this.
+[2022.11.11-03.57.13:191][  1]LogMovieRenderPipeline: Successfully detected and loaded required movie arguments. Rendering will begin once the map is loaded.
+[2022.11.11-03.57.13:191][  1]LogMovieRenderPipeline: NumJobs: 1 ExecutorClass: MoviePipelineInProcessExecutor
+[2022.11.11-03.57.13:192][  1]LogMovieRenderPipeline: MoviePipelineLinearExecutorBase starting 1 jobs.
+[2022.11.11-03.57.13:193][  1]LogMovieRenderPipeline: MoviePipelineLinearExecutorBase starting job [1/1]
+[2022.11.11-03.57.13:243][  1]LogMovieRenderPipeline: About to load target map /Game/Main
+[2022.11.11-03.57.13:244][  2]LogNet: Browse: /Game/Main??game=/Script/MovieRenderPipelineCore.MoviePipelineGameMode
+[2022.11.11-03.57.13:244][  2]LogDisplayClusterEngine: UDisplayClusterGameEngine::LoadMap, URL=/Game/Main??game=/Script/MovieRenderPipelineCore.MoviePipelineGameMode
+[2022.11.11-03.57.13:245][  2]LogLoad: LoadMap: /Game/Main??game=/Script/MovieRenderPipelineCore.MoviePipelineGameMode
+[2022.11.11-03.57.13:245][  2]LogWorld: BeginTearingDown for /MovieRenderPipeline/MoviePipelineEntryMap
+[2022.11.11-03.57.13:246][  2]LogWorld: UWorld::CleanupWorld for MoviePipelineEntryMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.11-03.57.13:246][  2]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.11-03.57.13:273][  2]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.11-03.57.13:276][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.11.11-03.57.13:324][  2]LogLinker: Warning: VerifyImport: Failed to find script package for import object 'Package /Script/MediaFrameworkUtilitiesEditor'
+[2022.11.11-03.57.13:789][  2]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main'.
+[2022.11.11-03.57.13:790][  2]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.11-03.57.13:791][  2]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.11-03.57.13:792][  2]LogAIModule: Creating AISystem for world Main
+[2022.11.11-03.57.13:793][  2]LogLoad: Game class is 'MoviePipelineGameMode'
+[2022.11.11-03.57.13:840][  2]LogWorld: Bringing World /Game/Main.Main up for play (max tick rate 0) at 2022.11.11-03.57.13
+[2022.11.11-03.57.13:844][  2]LogWorld: Bringing up level for play took: 0.018573
+[2022.11.11-03.57.13:846][  2]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.11.11-03.57.13:848][  2]LogMovieRenderPipeline: Finished map load Main
+[2022.11.11-03.57.13:848][  2]LogMovieRenderPipeline: Zero Initial Delay, initializing...
+[2022.11.11-03.57.13:849][  2]LogMovieRenderPipeline: [2] Initializing overall Movie Pipeline
+[2022.11.11-03.57.13:850][  2]LogMovieRenderPipeline: Applying Game Override quality settings and cvars.
+[2022.11.11-03.57.13:965][  2]LogMovieRenderPipeline: Generated new ShotInfo for Inner: CameraActor Outer: no shot (No existing shot found in the job).
+[2022.11.11-03.57.13:966][  2]LogMovieRenderPipeline: Registering range: [24000,3477600) (InnerName: CameraActor OuterName: no shot)
+[2022.11.11-03.57.13:970][  2]LogLoad: Took 0.725363 seconds to LoadMap(/Game/Main)
+[2022.11.11-03.57.13:975][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_001_Dupli_76.World_V2_Grass_Grass_Plane_Grass_001_Dupli_76 being ready before playing
+[2022.11.11-03.57.13:975][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_001_Dupli_77.World_V2_Grass_Grass_Plane_Grass_001_Dupli_77 being ready before playing
+[2022.11.11-03.57.13:976][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_001_Dupli_79.World_V2_Grass_Grass_Plane_Grass_001_Dupli_79 being ready before playing
+[2022.11.11-03.57.13:976][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_001_Dupli_80.World_V2_Grass_Grass_Plane_Grass_001_Dupli_80 being ready before playing
+[2022.11.11-03.57.13:977][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_001_Dupli_81.World_V2_Grass_Grass_Plane_Grass_001_Dupli_81 being ready before playing
+[2022.11.11-03.57.13:977][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_001_Dupli_83.World_V2_Grass_Grass_Plane_Grass_001_Dupli_83 being ready before playing
+[2022.11.11-03.57.13:978][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_001_Dupli_85.World_V2_Grass_Grass_Plane_Grass_001_Dupli_85 being ready before playing
+[2022.11.11-03.57.13:978][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_001_Dupli_89.World_V2_Grass_Grass_Plane_Grass_001_Dupli_89 being ready before playing
+[2022.11.11-03.57.13:978][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_001_Dupli_90.World_V2_Grass_Grass_Plane_Grass_001_Dupli_90 being ready before playing
+[2022.11.11-03.57.13:979][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_001_Dupli_92.World_V2_Grass_Grass_Plane_Grass_001_Dupli_92 being ready before playing
+[2022.11.11-03.57.13:979][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_001_Dupli_93.World_V2_Grass_Grass_Plane_Grass_001_Dupli_93 being ready before playing
+[2022.11.11-03.57.13:980][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_001_Dupli_95.World_V2_Grass_Grass_Plane_Grass_001_Dupli_95 being ready before playing
+[2022.11.11-03.57.13:980][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_001_Dupli_96.World_V2_Grass_Grass_Plane_Grass_001_Dupli_96 being ready before playing
+[2022.11.11-03.57.13:981][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_001_Dupli_97.World_V2_Grass_Grass_Plane_Grass_001_Dupli_97 being ready before playing
+[2022.11.11-03.57.13:981][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_001_Dupli_98.World_V2_Grass_Grass_Plane_Grass_001_Dupli_98 being ready before playing
+[2022.11.11-03.57.13:981][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_100.World_V2_Grass_Grass_Plane_Grass_Dupli_100 being ready before playing
+[2022.11.11-03.57.13:982][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_103.World_V2_Grass_Grass_Plane_Grass_Dupli_103 being ready before playing
+[2022.11.11-03.57.13:986][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_105.World_V2_Grass_Grass_Plane_Grass_Dupli_105 being ready before playing
+[2022.11.11-03.57.13:986][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_107.World_V2_Grass_Grass_Plane_Grass_Dupli_107 being ready before playing
+[2022.11.11-03.57.13:987][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_108.World_V2_Grass_Grass_Plane_Grass_Dupli_108 being ready before playing
+[2022.11.11-03.57.13:987][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_11.World_V2_Grass_Grass_Plane_Grass_Dupli_11 being ready before playing
+[2022.11.11-03.57.13:987][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_110.World_V2_Grass_Grass_Plane_Grass_Dupli_110 being ready before playing
+[2022.11.11-03.57.13:988][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_112.World_V2_Grass_Grass_Plane_Grass_Dupli_112 being ready before playing
+[2022.11.11-03.57.13:988][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_113.World_V2_Grass_Grass_Plane_Grass_Dupli_113 being ready before playing
+[2022.11.11-03.57.13:989][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_116.World_V2_Grass_Grass_Plane_Grass_Dupli_116 being ready before playing
+[2022.11.11-03.57.13:989][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_118.World_V2_Grass_Grass_Plane_Grass_Dupli_118 being ready before playing
+[2022.11.11-03.57.13:990][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_119.World_V2_Grass_Grass_Plane_Grass_Dupli_119 being ready before playing
+[2022.11.11-03.57.13:990][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_12.World_V2_Grass_Grass_Plane_Grass_Dupli_12 being ready before playing
+[2022.11.11-03.57.13:990][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_121.World_V2_Grass_Grass_Plane_Grass_Dupli_121 being ready before playing
+[2022.11.11-03.57.13:991][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_123.World_V2_Grass_Grass_Plane_Grass_Dupli_123 being ready before playing
+[2022.11.11-03.57.13:991][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_124.World_V2_Grass_Grass_Plane_Grass_Dupli_124 being ready before playing
+[2022.11.11-03.57.13:992][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_125.World_V2_Grass_Grass_Plane_Grass_Dupli_125 being ready before playing
+[2022.11.11-03.57.13:992][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_126.World_V2_Grass_Grass_Plane_Grass_Dupli_126 being ready before playing
+[2022.11.11-03.57.13:993][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_127.World_V2_Grass_Grass_Plane_Grass_Dupli_127 being ready before playing
+[2022.11.11-03.57.13:994][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_128.World_V2_Grass_Grass_Plane_Grass_Dupli_128 being ready before playing
+[2022.11.11-03.57.13:994][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_13.World_V2_Grass_Grass_Plane_Grass_Dupli_13 being ready before playing
+[2022.11.11-03.57.13:994][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_130.World_V2_Grass_Grass_Plane_Grass_Dupli_130 being ready before playing
+[2022.11.11-03.57.13:995][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_131.World_V2_Grass_Grass_Plane_Grass_Dupli_131 being ready before playing
+[2022.11.11-03.57.13:995][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_132.World_V2_Grass_Grass_Plane_Grass_Dupli_132 being ready before playing
+[2022.11.11-03.57.13:996][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_133.World_V2_Grass_Grass_Plane_Grass_Dupli_133 being ready before playing
+[2022.11.11-03.57.13:996][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_136.World_V2_Grass_Grass_Plane_Grass_Dupli_136 being ready before playing
+[2022.11.11-03.57.13:997][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_139.World_V2_Grass_Grass_Plane_Grass_Dupli_139 being ready before playing
+[2022.11.11-03.57.13:997][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_14.World_V2_Grass_Grass_Plane_Grass_Dupli_14 being ready before playing
+[2022.11.11-03.57.13:998][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_140.World_V2_Grass_Grass_Plane_Grass_Dupli_140 being ready before playing
+[2022.11.11-03.57.14:002][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_142.World_V2_Grass_Grass_Plane_Grass_Dupli_142 being ready before playing
+[2022.11.11-03.57.14:003][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_144.World_V2_Grass_Grass_Plane_Grass_Dupli_144 being ready before playing
+[2022.11.11-03.57.14:003][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_146.World_V2_Grass_Grass_Plane_Grass_Dupli_146 being ready before playing
+[2022.11.11-03.57.14:004][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_147.World_V2_Grass_Grass_Plane_Grass_Dupli_147 being ready before playing
+[2022.11.11-03.57.14:004][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_15.World_V2_Grass_Grass_Plane_Grass_Dupli_15 being ready before playing
+[2022.11.11-03.57.14:005][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_154.World_V2_Grass_Grass_Plane_Grass_Dupli_154 being ready before playing
+[2022.11.11-03.57.14:006][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_159.World_V2_Grass_Grass_Plane_Grass_Dupli_159 being ready before playing
+[2022.11.11-03.57.14:006][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_160.World_V2_Grass_Grass_Plane_Grass_Dupli_160 being ready before playing
+[2022.11.11-03.57.14:007][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_161.World_V2_Grass_Grass_Plane_Grass_Dupli_161 being ready before playing
+[2022.11.11-03.57.14:007][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_162.World_V2_Grass_Grass_Plane_Grass_Dupli_162 being ready before playing
+[2022.11.11-03.57.14:008][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_163.World_V2_Grass_Grass_Plane_Grass_Dupli_163 being ready before playing
+[2022.11.11-03.57.14:008][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_166.World_V2_Grass_Grass_Plane_Grass_Dupli_166 being ready before playing
+[2022.11.11-03.57.14:009][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_167.World_V2_Grass_Grass_Plane_Grass_Dupli_167 being ready before playing
+[2022.11.11-03.57.14:009][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_168.World_V2_Grass_Grass_Plane_Grass_Dupli_168 being ready before playing
+[2022.11.11-03.57.14:010][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_17.World_V2_Grass_Grass_Plane_Grass_Dupli_17 being ready before playing
+[2022.11.11-03.57.14:010][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_173.World_V2_Grass_Grass_Plane_Grass_Dupli_173 being ready before playing
+[2022.11.11-03.57.14:010][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_174.World_V2_Grass_Grass_Plane_Grass_Dupli_174 being ready before playing
+[2022.11.11-03.57.14:011][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_177.World_V2_Grass_Grass_Plane_Grass_Dupli_177 being ready before playing
+[2022.11.11-03.57.14:011][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_18.World_V2_Grass_Grass_Plane_Grass_Dupli_18 being ready before playing
+[2022.11.11-03.57.14:012][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_181.World_V2_Grass_Grass_Plane_Grass_Dupli_181 being ready before playing
+[2022.11.11-03.57.14:012][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_183.World_V2_Grass_Grass_Plane_Grass_Dupli_183 being ready before playing
+[2022.11.11-03.57.14:013][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_184.World_V2_Grass_Grass_Plane_Grass_Dupli_184 being ready before playing
+[2022.11.11-03.57.14:013][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_186.World_V2_Grass_Grass_Plane_Grass_Dupli_186 being ready before playing
+[2022.11.11-03.57.14:014][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_187.World_V2_Grass_Grass_Plane_Grass_Dupli_187 being ready before playing
+[2022.11.11-03.57.14:018][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_189.World_V2_Grass_Grass_Plane_Grass_Dupli_189 being ready before playing
+[2022.11.11-03.57.14:019][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_190.World_V2_Grass_Grass_Plane_Grass_Dupli_190 being ready before playing
+[2022.11.11-03.57.14:019][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_191.World_V2_Grass_Grass_Plane_Grass_Dupli_191 being ready before playing
+[2022.11.11-03.57.14:020][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_192.World_V2_Grass_Grass_Plane_Grass_Dupli_192 being ready before playing
+[2022.11.11-03.57.14:020][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_194.World_V2_Grass_Grass_Plane_Grass_Dupli_194 being ready before playing
+[2022.11.11-03.57.14:020][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_197.World_V2_Grass_Grass_Plane_Grass_Dupli_197 being ready before playing
+[2022.11.11-03.57.14:021][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_198.World_V2_Grass_Grass_Plane_Grass_Dupli_198 being ready before playing
+[2022.11.11-03.57.14:021][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_199.World_V2_Grass_Grass_Plane_Grass_Dupli_199 being ready before playing
+[2022.11.11-03.57.14:022][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_201.World_V2_Grass_Grass_Plane_Grass_Dupli_201 being ready before playing
+[2022.11.11-03.57.14:022][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_204.World_V2_Grass_Grass_Plane_Grass_Dupli_204 being ready before playing
+[2022.11.11-03.57.14:023][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_205.World_V2_Grass_Grass_Plane_Grass_Dupli_205 being ready before playing
+[2022.11.11-03.57.14:023][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_206.World_V2_Grass_Grass_Plane_Grass_Dupli_206 being ready before playing
+[2022.11.11-03.57.14:024][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_207.World_V2_Grass_Grass_Plane_Grass_Dupli_207 being ready before playing
+[2022.11.11-03.57.14:024][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_208.World_V2_Grass_Grass_Plane_Grass_Dupli_208 being ready before playing
+[2022.11.11-03.57.14:024][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_209.World_V2_Grass_Grass_Plane_Grass_Dupli_209 being ready before playing
+[2022.11.11-03.57.14:025][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_27.World_V2_Grass_Grass_Plane_Grass_Dupli_27 being ready before playing
+[2022.11.11-03.57.14:025][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_28.World_V2_Grass_Grass_Plane_Grass_Dupli_28 being ready before playing
+[2022.11.11-03.57.14:026][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_29.World_V2_Grass_Grass_Plane_Grass_Dupli_29 being ready before playing
+[2022.11.11-03.57.14:026][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_34.World_V2_Grass_Grass_Plane_Grass_Dupli_34 being ready before playing
+[2022.11.11-03.57.14:027][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_36.World_V2_Grass_Grass_Plane_Grass_Dupli_36 being ready before playing
+[2022.11.11-03.57.14:027][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_37.World_V2_Grass_Grass_Plane_Grass_Dupli_37 being ready before playing
+[2022.11.11-03.57.14:028][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_38.World_V2_Grass_Grass_Plane_Grass_Dupli_38 being ready before playing
+[2022.11.11-03.57.14:028][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_40.World_V2_Grass_Grass_Plane_Grass_Dupli_40 being ready before playing
+[2022.11.11-03.57.14:028][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_41.World_V2_Grass_Grass_Plane_Grass_Dupli_41 being ready before playing
+[2022.11.11-03.57.14:029][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_43.World_V2_Grass_Grass_Plane_Grass_Dupli_43 being ready before playing
+[2022.11.11-03.57.14:029][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_44.World_V2_Grass_Grass_Plane_Grass_Dupli_44 being ready before playing
+[2022.11.11-03.57.14:030][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_45.World_V2_Grass_Grass_Plane_Grass_Dupli_45 being ready before playing
+[2022.11.11-03.57.14:034][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_47.World_V2_Grass_Grass_Plane_Grass_Dupli_47 being ready before playing
+[2022.11.11-03.57.14:035][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_48.World_V2_Grass_Grass_Plane_Grass_Dupli_48 being ready before playing
+[2022.11.11-03.57.14:035][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_54.World_V2_Grass_Grass_Plane_Grass_Dupli_54 being ready before playing
+[2022.11.11-03.57.14:036][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_55.World_V2_Grass_Grass_Plane_Grass_Dupli_55 being ready before playing
+[2022.11.11-03.57.14:036][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_56.World_V2_Grass_Grass_Plane_Grass_Dupli_56 being ready before playing
+[2022.11.11-03.57.14:036][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_57.World_V2_Grass_Grass_Plane_Grass_Dupli_57 being ready before playing
+[2022.11.11-03.57.14:037][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_58.World_V2_Grass_Grass_Plane_Grass_Dupli_58 being ready before playing
+[2022.11.11-03.57.14:037][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_60.World_V2_Grass_Grass_Plane_Grass_Dupli_60 being ready before playing
+[2022.11.11-03.57.14:038][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_61.World_V2_Grass_Grass_Plane_Grass_Dupli_61 being ready before playing
+[2022.11.11-03.57.14:038][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_62.World_V2_Grass_Grass_Plane_Grass_Dupli_62 being ready before playing
+[2022.11.11-03.57.14:038][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_63.World_V2_Grass_Grass_Plane_Grass_Dupli_63 being ready before playing
+[2022.11.11-03.57.14:039][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_67.World_V2_Grass_Grass_Plane_Grass_Dupli_67 being ready before playing
+[2022.11.11-03.57.14:039][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_69.World_V2_Grass_Grass_Plane_Grass_Dupli_69 being ready before playing
+[2022.11.11-03.57.14:040][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_73.World_V2_Grass_Grass_Plane_Grass_Dupli_73 being ready before playing
+[2022.11.11-03.57.14:040][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_75.World_V2_Grass_Grass_Plane_Grass_Dupli_75 being ready before playing
+[2022.11.11-03.57.14:041][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_78.World_V2_Grass_Grass_Plane_Grass_Dupli_78 being ready before playing
+[2022.11.11-03.57.14:041][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_82.World_V2_Grass_Grass_Plane_Grass_Dupli_82 being ready before playing
+[2022.11.11-03.57.14:042][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_84.World_V2_Grass_Grass_Plane_Grass_Dupli_84 being ready before playing
+[2022.11.11-03.57.14:042][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_86.World_V2_Grass_Grass_Plane_Grass_Dupli_86 being ready before playing
+[2022.11.11-03.57.14:043][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_87.World_V2_Grass_Grass_Plane_Grass_Dupli_87 being ready before playing
+[2022.11.11-03.57.14:043][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_88.World_V2_Grass_Grass_Plane_Grass_Dupli_88 being ready before playing
+[2022.11.11-03.57.14:044][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_91.World_V2_Grass_Grass_Plane_Grass_Dupli_91 being ready before playing
+[2022.11.11-03.57.14:044][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_94.World_V2_Grass_Grass_Plane_Grass_Dupli_94 being ready before playing
+[2022.11.11-03.57.14:044][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Grass_Plane/World_V2_Grass_Grass_Plane_Grass_Dupli_99.World_V2_Grass_Grass_Plane_Grass_Dupli_99 being ready before playing
+[2022.11.11-03.57.14:045][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Lamps/World_V2_Lamps_Lamp.World_V2_Lamps_Lamp being ready before playing
+[2022.11.11-03.57.14:045][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Lamps/World_V2_Lamps_Lamp_001.World_V2_Lamps_Lamp_001 being ready before playing
+[2022.11.11-03.57.14:046][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Lamps/World_V2_Lamps_Lamp_002.World_V2_Lamps_Lamp_002 being ready before playing
+[2022.11.11-03.57.14:050][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Lamps/World_V2_Lamps_Lamp_003.World_V2_Lamps_Lamp_003 being ready before playing
+[2022.11.11-03.57.14:050][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Lamps/World_V2_Lamps_Lamp_004.World_V2_Lamps_Lamp_004 being ready before playing
+[2022.11.11-03.57.14:051][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Lamps/World_V2_Lamps_Lamp_005.World_V2_Lamps_Lamp_005 being ready before playing
+[2022.11.11-03.57.14:051][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Lamps/World_V2_Lamps_Lamp_006.World_V2_Lamps_Lamp_006 being ready before playing
+[2022.11.11-03.57.14:052][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Lamps/World_V2_Lamps_Lamp_007.World_V2_Lamps_Lamp_007 being ready before playing
+[2022.11.11-03.57.14:052][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Lamps/World_V2_Lamps_Lamp_008.World_V2_Lamps_Lamp_008 being ready before playing
+[2022.11.11-03.57.14:053][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Machines/World_V2_Machines_C_Machine.World_V2_Machines_C_Machine being ready before playing
+[2022.11.11-03.57.14:054][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Machines/World_V2_Machines_C_Machine_001.World_V2_Machines_C_Machine_001 being ready before playing
+[2022.11.11-03.57.14:054][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Machines/World_V2_Machines_C_Machine_002.World_V2_Machines_C_Machine_002 being ready before playing
+[2022.11.11-03.57.14:054][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Machines/World_V2_Machines_C_Machine_003.World_V2_Machines_C_Machine_003 being ready before playing
+[2022.11.11-03.57.14:055][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Machines/World_V2_Machines_C_Machine_004.World_V2_Machines_C_Machine_004 being ready before playing
+[2022.11.11-03.57.14:055][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane.World_V2_Trees_Tree_Plane being ready before playing
+[2022.11.11-03.57.14:056][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_.World_V2_Trees_Tree_Plane_Tree_Dupli_ being ready before playing
+[2022.11.11-03.57.14:056][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_1.World_V2_Trees_Tree_Plane_Tree_Dupli_1 being ready before playing
+[2022.11.11-03.57.14:057][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_10.World_V2_Trees_Tree_Plane_Tree_Dupli_10 being ready before playing
+[2022.11.11-03.57.14:057][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_11.World_V2_Trees_Tree_Plane_Tree_Dupli_11 being ready before playing
+[2022.11.11-03.57.14:058][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_12.World_V2_Trees_Tree_Plane_Tree_Dupli_12 being ready before playing
+[2022.11.11-03.57.14:058][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_13.World_V2_Trees_Tree_Plane_Tree_Dupli_13 being ready before playing
+[2022.11.11-03.57.14:059][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_14.World_V2_Trees_Tree_Plane_Tree_Dupli_14 being ready before playing
+[2022.11.11-03.57.14:059][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_15.World_V2_Trees_Tree_Plane_Tree_Dupli_15 being ready before playing
+[2022.11.11-03.57.14:060][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_16.World_V2_Trees_Tree_Plane_Tree_Dupli_16 being ready before playing
+[2022.11.11-03.57.14:060][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_17.World_V2_Trees_Tree_Plane_Tree_Dupli_17 being ready before playing
+[2022.11.11-03.57.14:060][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_18.World_V2_Trees_Tree_Plane_Tree_Dupli_18 being ready before playing
+[2022.11.11-03.57.14:061][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_19.World_V2_Trees_Tree_Plane_Tree_Dupli_19 being ready before playing
+[2022.11.11-03.57.14:061][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_2.World_V2_Trees_Tree_Plane_Tree_Dupli_2 being ready before playing
+[2022.11.11-03.57.14:062][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_20.World_V2_Trees_Tree_Plane_Tree_Dupli_20 being ready before playing
+[2022.11.11-03.57.14:066][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_21.World_V2_Trees_Tree_Plane_Tree_Dupli_21 being ready before playing
+[2022.11.11-03.57.14:066][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_22.World_V2_Trees_Tree_Plane_Tree_Dupli_22 being ready before playing
+[2022.11.11-03.57.14:067][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_23.World_V2_Trees_Tree_Plane_Tree_Dupli_23 being ready before playing
+[2022.11.11-03.57.14:067][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_24.World_V2_Trees_Tree_Plane_Tree_Dupli_24 being ready before playing
+[2022.11.11-03.57.14:068][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_25.World_V2_Trees_Tree_Plane_Tree_Dupli_25 being ready before playing
+[2022.11.11-03.57.14:068][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_26.World_V2_Trees_Tree_Plane_Tree_Dupli_26 being ready before playing
+[2022.11.11-03.57.14:069][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_27.World_V2_Trees_Tree_Plane_Tree_Dupli_27 being ready before playing
+[2022.11.11-03.57.14:069][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_28.World_V2_Trees_Tree_Plane_Tree_Dupli_28 being ready before playing
+[2022.11.11-03.57.14:069][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_29.World_V2_Trees_Tree_Plane_Tree_Dupli_29 being ready before playing
+[2022.11.11-03.57.14:070][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_3.World_V2_Trees_Tree_Plane_Tree_Dupli_3 being ready before playing
+[2022.11.11-03.57.14:070][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_30.World_V2_Trees_Tree_Plane_Tree_Dupli_30 being ready before playing
+[2022.11.11-03.57.14:071][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_31.World_V2_Trees_Tree_Plane_Tree_Dupli_31 being ready before playing
+[2022.11.11-03.57.14:071][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_32.World_V2_Trees_Tree_Plane_Tree_Dupli_32 being ready before playing
+[2022.11.11-03.57.14:072][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_33.World_V2_Trees_Tree_Plane_Tree_Dupli_33 being ready before playing
+[2022.11.11-03.57.14:073][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_34.World_V2_Trees_Tree_Plane_Tree_Dupli_34 being ready before playing
+[2022.11.11-03.57.14:073][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_35.World_V2_Trees_Tree_Plane_Tree_Dupli_35 being ready before playing
+[2022.11.11-03.57.14:074][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_36.World_V2_Trees_Tree_Plane_Tree_Dupli_36 being ready before playing
+[2022.11.11-03.57.14:074][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_37.World_V2_Trees_Tree_Plane_Tree_Dupli_37 being ready before playing
+[2022.11.11-03.57.14:075][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_38.World_V2_Trees_Tree_Plane_Tree_Dupli_38 being ready before playing
+[2022.11.11-03.57.14:075][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_39.World_V2_Trees_Tree_Plane_Tree_Dupli_39 being ready before playing
+[2022.11.11-03.57.14:076][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_4.World_V2_Trees_Tree_Plane_Tree_Dupli_4 being ready before playing
+[2022.11.11-03.57.14:076][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_40.World_V2_Trees_Tree_Plane_Tree_Dupli_40 being ready before playing
+[2022.11.11-03.57.14:077][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_41.World_V2_Trees_Tree_Plane_Tree_Dupli_41 being ready before playing
+[2022.11.11-03.57.14:077][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_42.World_V2_Trees_Tree_Plane_Tree_Dupli_42 being ready before playing
+[2022.11.11-03.57.14:078][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_43.World_V2_Trees_Tree_Plane_Tree_Dupli_43 being ready before playing
+[2022.11.11-03.57.14:081][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_44.World_V2_Trees_Tree_Plane_Tree_Dupli_44 being ready before playing
+[2022.11.11-03.57.14:082][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_45.World_V2_Trees_Tree_Plane_Tree_Dupli_45 being ready before playing
+[2022.11.11-03.57.14:082][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_46.World_V2_Trees_Tree_Plane_Tree_Dupli_46 being ready before playing
+[2022.11.11-03.57.14:083][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_47.World_V2_Trees_Tree_Plane_Tree_Dupli_47 being ready before playing
+[2022.11.11-03.57.14:083][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_48.World_V2_Trees_Tree_Plane_Tree_Dupli_48 being ready before playing
+[2022.11.11-03.57.14:084][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_49.World_V2_Trees_Tree_Plane_Tree_Dupli_49 being ready before playing
+[2022.11.11-03.57.14:084][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_5.World_V2_Trees_Tree_Plane_Tree_Dupli_5 being ready before playing
+[2022.11.11-03.57.14:085][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_50.World_V2_Trees_Tree_Plane_Tree_Dupli_50 being ready before playing
+[2022.11.11-03.57.14:085][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_51.World_V2_Trees_Tree_Plane_Tree_Dupli_51 being ready before playing
+[2022.11.11-03.57.14:086][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_52.World_V2_Trees_Tree_Plane_Tree_Dupli_52 being ready before playing
+[2022.11.11-03.57.14:086][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_53.World_V2_Trees_Tree_Plane_Tree_Dupli_53 being ready before playing
+[2022.11.11-03.57.14:087][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_54.World_V2_Trees_Tree_Plane_Tree_Dupli_54 being ready before playing
+[2022.11.11-03.57.14:087][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_55.World_V2_Trees_Tree_Plane_Tree_Dupli_55 being ready before playing
+[2022.11.11-03.57.14:087][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_56.World_V2_Trees_Tree_Plane_Tree_Dupli_56 being ready before playing
+[2022.11.11-03.57.14:088][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_57.World_V2_Trees_Tree_Plane_Tree_Dupli_57 being ready before playing
+[2022.11.11-03.57.14:088][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_58.World_V2_Trees_Tree_Plane_Tree_Dupli_58 being ready before playing
+[2022.11.11-03.57.14:089][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_59.World_V2_Trees_Tree_Plane_Tree_Dupli_59 being ready before playing
+[2022.11.11-03.57.14:089][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_6.World_V2_Trees_Tree_Plane_Tree_Dupli_6 being ready before playing
+[2022.11.11-03.57.14:090][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_60.World_V2_Trees_Tree_Plane_Tree_Dupli_60 being ready before playing
+[2022.11.11-03.57.14:090][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_61.World_V2_Trees_Tree_Plane_Tree_Dupli_61 being ready before playing
+[2022.11.11-03.57.14:090][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_62.World_V2_Trees_Tree_Plane_Tree_Dupli_62 being ready before playing
+[2022.11.11-03.57.14:091][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_63.World_V2_Trees_Tree_Plane_Tree_Dupli_63 being ready before playing
+[2022.11.11-03.57.14:091][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_64.World_V2_Trees_Tree_Plane_Tree_Dupli_64 being ready before playing
+[2022.11.11-03.57.14:092][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_65.World_V2_Trees_Tree_Plane_Tree_Dupli_65 being ready before playing
+[2022.11.11-03.57.14:092][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_66.World_V2_Trees_Tree_Plane_Tree_Dupli_66 being ready before playing
+[2022.11.11-03.57.14:093][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_67.World_V2_Trees_Tree_Plane_Tree_Dupli_67 being ready before playing
+[2022.11.11-03.57.14:093][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_68.World_V2_Trees_Tree_Plane_Tree_Dupli_68 being ready before playing
+[2022.11.11-03.57.14:093][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_69.World_V2_Trees_Tree_Plane_Tree_Dupli_69 being ready before playing
+[2022.11.11-03.57.14:094][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_7.World_V2_Trees_Tree_Plane_Tree_Dupli_7 being ready before playing
+[2022.11.11-03.57.14:098][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_70.World_V2_Trees_Tree_Plane_Tree_Dupli_70 being ready before playing
+[2022.11.11-03.57.14:099][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_71.World_V2_Trees_Tree_Plane_Tree_Dupli_71 being ready before playing
+[2022.11.11-03.57.14:100][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_72.World_V2_Trees_Tree_Plane_Tree_Dupli_72 being ready before playing
+[2022.11.11-03.57.14:101][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_73.World_V2_Trees_Tree_Plane_Tree_Dupli_73 being ready before playing
+[2022.11.11-03.57.14:102][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_74.World_V2_Trees_Tree_Plane_Tree_Dupli_74 being ready before playing
+[2022.11.11-03.57.14:102][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_75.World_V2_Trees_Tree_Plane_Tree_Dupli_75 being ready before playing
+[2022.11.11-03.57.14:103][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_76.World_V2_Trees_Tree_Plane_Tree_Dupli_76 being ready before playing
+[2022.11.11-03.57.14:104][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_77.World_V2_Trees_Tree_Plane_Tree_Dupli_77 being ready before playing
+[2022.11.11-03.57.14:105][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_78.World_V2_Trees_Tree_Plane_Tree_Dupli_78 being ready before playing
+[2022.11.11-03.57.14:106][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_79.World_V2_Trees_Tree_Plane_Tree_Dupli_79 being ready before playing
+[2022.11.11-03.57.14:106][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_8.World_V2_Trees_Tree_Plane_Tree_Dupli_8 being ready before playing
+[2022.11.11-03.57.14:107][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_80.World_V2_Trees_Tree_Plane_Tree_Dupli_80 being ready before playing
+[2022.11.11-03.57.14:107][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_81.World_V2_Trees_Tree_Plane_Tree_Dupli_81 being ready before playing
+[2022.11.11-03.57.14:108][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_82.World_V2_Trees_Tree_Plane_Tree_Dupli_82 being ready before playing
+[2022.11.11-03.57.14:108][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_83.World_V2_Trees_Tree_Plane_Tree_Dupli_83 being ready before playing
+[2022.11.11-03.57.14:108][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_84.World_V2_Trees_Tree_Plane_Tree_Dupli_84 being ready before playing
+[2022.11.11-03.57.14:109][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_85.World_V2_Trees_Tree_Plane_Tree_Dupli_85 being ready before playing
+[2022.11.11-03.57.14:109][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_86.World_V2_Trees_Tree_Plane_Tree_Dupli_86 being ready before playing
+[2022.11.11-03.57.14:110][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_87.World_V2_Trees_Tree_Plane_Tree_Dupli_87 being ready before playing
+[2022.11.11-03.57.14:114][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_88.World_V2_Trees_Tree_Plane_Tree_Dupli_88 being ready before playing
+[2022.11.11-03.57.14:114][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_89.World_V2_Trees_Tree_Plane_Tree_Dupli_89 being ready before playing
+[2022.11.11-03.57.14:115][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_9.World_V2_Trees_Tree_Plane_Tree_Dupli_9 being ready before playing
+[2022.11.11-03.57.14:115][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_90.World_V2_Trees_Tree_Plane_Tree_Dupli_90 being ready before playing
+[2022.11.11-03.57.14:116][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_91.World_V2_Trees_Tree_Plane_Tree_Dupli_91 being ready before playing
+[2022.11.11-03.57.14:116][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_92.World_V2_Trees_Tree_Plane_Tree_Dupli_92 being ready before playing
+[2022.11.11-03.57.14:117][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_93.World_V2_Trees_Tree_Plane_Tree_Dupli_93 being ready before playing
+[2022.11.11-03.57.14:117][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_94.World_V2_Trees_Tree_Plane_Tree_Dupli_94 being ready before playing
+[2022.11.11-03.57.14:118][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_95.World_V2_Trees_Tree_Plane_Tree_Dupli_95 being ready before playing
+[2022.11.11-03.57.14:118][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_96.World_V2_Trees_Tree_Plane_Tree_Dupli_96 being ready before playing
+[2022.11.11-03.57.14:118][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_97.World_V2_Trees_Tree_Plane_Tree_Dupli_97 being ready before playing
+[2022.11.11-03.57.14:119][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_98.World_V2_Trees_Tree_Plane_Tree_Dupli_98 being ready before playing
+[2022.11.11-03.57.14:119][  2]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Tree_Plane/World_V2_Trees_Tree_Plane_Tree_Dupli_99.World_V2_Trees_Tree_Plane_Tree_Dupli_99 being ready before playing
+[2022.11.11-03.57.14:270][  3]LogMovieRenderPipeline: Expanding Shot 1/1 (Shot: no shot Camera: CameraActor)
+[2022.11.11-03.57.14:271][  3]LogMovieRenderPipeline: Finished setting up rendering for shot. Shot has 1 Passes. Total resolution: (1920x1080) Individual tile resolution: (1920x1080). Tile count: (1x1)
+[2022.11.11-03.57.14:272][  3]LogMovieRenderPipeline: [3] Initializing Camera Cut [1/1] in [no shot] CameraActor.
+[2022.11.11-03.57.14:272][  3]LogMovieRenderPipeline: [3] Initialization set state to WarmingUp due to having 1 warm up frames.
+[2022.11.11-03.57.14:276][  3]LogMovieRenderPipeline: [3] Finished initializing Camera Cut [1/1] in [no shot] CameraActor.
+[2022.11.11-03.57.39:443][932]LogConsoleManager: Warning: Performance warning: Console object named 'r.AntiAliasingMethod' shows many (500) FindConsoleObject() calls (consider caching e.g. using static)
+[2022.11.11-03.59.05:156][322]LogMovieRenderPipeline: [4322] Finished processing Camera Cut [1/1].
+[2022.11.11-03.59.05:214][322]LogMovieRenderPipeline: [4322] Finished rendering last shot. Moving to Finalize to finish writing items to disk.
+[2022.11.11-03.59.05:280][328]LogMovieRenderPipelineIO: Generated Path 'D:/UE_5.0/Engine/Binaries/Win64/{project_dir}/Saved/MovieRenders/5834FC3E4CDE3EB3572939A7E4F16290_input.txt' for input data.
+[2022.11.11-03.59.05:281][328]LogMovieRenderPipelineIO: Final Command Line Arguments: -hide_banner -y -loglevel error   -f concat -safe 0 -i "D:/UE_5.0/Engine/Binaries/Win64/{project_dir}/Saved/MovieRenders/5834FC3E4CDE3EB3572939A7E4F16290_input.txt" -r 30.000000  -acodec aac -vcodec libx264 -crf 16 "D:/University/4th_Year/F20GA/F20_GA/Animation/Animation_V1/World_V1 5.0//Saved/MovieRenders/Main_Sequence.mp4"
+[2022.11.11-04.00.12:864][559]LogMovieRenderPipeline: Restoring Game Override quality settings and cvars.
+[2022.11.11-04.00.12:865][559]Scene texture extent history reset. Next scene render will reallocate textures at the requested size.
+[2022.11.11-04.00.12:866][559]LogMovieRenderPipeline: Movie Pipeline completed. Duration: +00:02:58.896
+[2022.11.11-04.00.12:867][559]LogMovieRenderPipeline: MoviePipelineLinearExecutorBase finished 1 jobs in +00:02:59.675.
+[2022.11.11-04.00.12:867][559]LogWindows: FPlatformMisc::RequestExitWithStatus(0, 0)
+[2022.11.11-04.00.12:867][559]LogCore: Engine exit requested (reason: Win RequestExit)
+[2022.11.11-04.00.12:868][559]LogDisplayClusterEngine: UDisplayClusterGameEngine::PreExitImpl
+[2022.11.11-04.00.12:870][560]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.11.11-04.00.12:870][560]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2022.11.11-04.00.12:871][560]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2022.11.11-04.00.12:872][560]LogDisplayClusterEngine: UDisplayClusterGameEngine::PreExitImpl
+[2022.11.11-04.00.12:873][560]LogInit: Display: PreExit Game.
+[2022.11.11-04.00.12:874][560]LogWorld: BeginTearingDown for /Game/Main
+[2022.11.11-04.00.12:877][560]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2022.11.11-04.00.12:879][560]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.11-04.00.13:360][560]LogDerivedDataCache: C:/Users/space/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:05.290 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.11-04.00.13:361][560]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.11.11-04.00.13:362][560]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.11.11-04.00.13:362][560]LogAudio: Display: Audio Device unregistered from world 'Main'.
+[2022.11.11-04.00.13:363][560]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2022.11.11-04.00.13:365][560]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2022.11.11-04.00.13:368][560]LogAudio: Display: Audio Device Manager Shutdown
+[2022.11.11-04.00.13:389][560]LogSlate: Window 'World_V1 (64-bit Development PCD3D_SM5) ' being destroyed
+[2022.11.11-04.00.13:390][560]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2022.11.11-04.00.13:400][560]LogExit: Preparing to exit.
+[2022.11.11-04.00.13:997][560]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.11.11-04.00.14:453][560]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.11-04.00.14:488][560]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.11.11-04.00.14:495][560]LogExit: Game engine shut down
+[2022.11.11-04.00.14:578][560]LogExit: Object subsystem successfully closed.
+[2022.11.11-04.00.14:586][560]LogShaderCompilers: Display: ================================================
+[2022.11.11-04.00.14:586][560]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.11-04.00.14:588][560]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.11.11-04.00.14:590][560]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.11.11-04.00.14:591][560]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.11.11-04.00.14:593][560]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.11.11-04.00.14:593][560]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.11.11-04.00.14:594][560]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.11.11-04.00.14:596][560]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.11.11-04.00.14:596][560]LogShaderCompilers: Display: ================================================
+[2022.11.11-04.00.14:622][560]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.11.11-04.00.14:636][560]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (700)
+[2022.11.11-04.00.14:636][560]LogModuleManager: Shutting down and abandoning module SequenceRecorder (698)
+[2022.11.11-04.00.14:638][560]LogModuleManager: Shutting down and abandoning module AutomationController (696)
+[2022.11.11-04.00.14:640][560]LogModuleManager: Shutting down and abandoning module AutomationWorker (694)
+[2022.11.11-04.00.14:641][560]LogModuleManager: Shutting down and abandoning module Voice (692)
+[2022.11.11-04.00.14:643][560]LogModuleManager: Shutting down and abandoning module AIModule (690)
+[2022.11.11-04.00.14:644][560]LogModuleManager: Shutting down and abandoning module GameplayDebugger (689)
+[2022.11.11-04.00.14:647][560]LogModuleManager: Shutting down and abandoning module AITestSuite (687)
+[2022.11.11-04.00.14:648][560]LogModuleManager: Shutting down and abandoning module NavigationSystem (685)
+[2022.11.11-04.00.14:650][560]LogModuleManager: Shutting down and abandoning module SteamVREditor (682)
+[2022.11.11-04.00.14:652][560]LogModuleManager: Shutting down and abandoning module OculusMR (680)
+[2022.11.11-04.00.14:654][560]LogModuleManager: Shutting down and abandoning module SunPosition (678)
+[2022.11.11-04.00.14:655][560]LogModuleManager: Shutting down and abandoning module OpenXRInput (676)
+[2022.11.11-04.00.14:657][560]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.11.11-04.00.14:659][560]LogModuleManager: Shutting down and abandoning module DisplayClusterMultiUser (674)
+[2022.11.11-04.00.14:661][560]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (672)
+[2022.11.11-04.00.14:663][560]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (670)
+[2022.11.11-04.00.14:666][560]LogModuleManager: Shutting down and abandoning module TakesCore (668)
+[2022.11.11-04.00.14:667][560]LogModuleManager: Shutting down and abandoning module ConcertTakeRecorder (666)
+[2022.11.11-04.00.14:669][560]LogModuleManager: Shutting down and abandoning module TakeRecorder (665)
+[2022.11.11-04.00.14:670][560]LogModuleManager: Shutting down and abandoning module PlanarCut (662)
+[2022.11.11-04.00.14:672][560]LogModuleManager: Shutting down and abandoning module CharacterAI (660)
+[2022.11.11-04.00.14:673][560]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (658)
+[2022.11.11-04.00.14:675][560]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (656)
+[2022.11.11-04.00.14:676][560]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (654)
+[2022.11.11-04.00.14:679][560]LogModuleManager: Shutting down and abandoning module WebMMedia (652)
+[2022.11.11-04.00.14:680][560]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (650)
+[2022.11.11-04.00.14:682][560]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (648)
+[2022.11.11-04.00.14:684][560]LogModuleManager: Shutting down and abandoning module HAPMedia (646)
+[2022.11.11-04.00.14:685][560]LogModuleManager: Shutting down and abandoning module BlackmagicMediaFactory (644)
+[2022.11.11-04.00.14:687][560]LogModuleManager: Shutting down and abandoning module AjaMediaFactory (642)
+[2022.11.11-04.00.14:688][560]LogModuleManager: Shutting down and abandoning module AppleProResMedia (640)
+[2022.11.11-04.00.14:690][560]LogModuleManager: Shutting down and abandoning module LiveLinkMultiUser (638)
+[2022.11.11-04.00.14:691][560]LogModuleManager: Shutting down and abandoning module SessionServices (636)
+[2022.11.11-04.00.14:692][560]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (634)
+[2022.11.11-04.00.14:694][560]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (632)
+[2022.11.11-04.00.14:694][560]LogModuleManager: Shutting down and abandoning module LiveCoding (630)
+[2022.11.11-04.00.14:695][560]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (628)
+[2022.11.11-04.00.14:695][560]LogModuleManager: Shutting down and abandoning module MovieScene (626)
+[2022.11.11-04.00.14:695][560]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (624)
+[2022.11.11-04.00.14:696][560]LogModuleManager: Shutting down and abandoning module PortalServices (622)
+[2022.11.11-04.00.14:696][560]LogModuleManager: Shutting down and abandoning module PortalRpc (620)
+[2022.11.11-04.00.14:697][560]LogModuleManager: Shutting down and abandoning module MessagingRpc (618)
+[2022.11.11-04.00.14:697][560]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (616)
+[2022.11.11-04.00.14:697][560]LogModuleManager: Shutting down and abandoning module AudioMixer (615)
+[2022.11.11-04.00.14:698][560]LogModuleManager: Shutting down and abandoning module AudioMixerCore (614)
+[2022.11.11-04.00.14:698][560]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (610)
+[2022.11.11-04.00.14:698][560]LogModuleManager: Shutting down and abandoning module TypedElementFramework (608)
+[2022.11.11-04.00.14:699][560]LogModuleManager: Shutting down and abandoning module ProfilerService (606)
+[2022.11.11-04.00.14:857][560]LogModuleManager: Shutting down and abandoning module TaskGraph (604)
+[2022.11.11-04.00.14:857][560]LogModuleManager: Shutting down and abandoning module VPBookmark (602)
+[2022.11.11-04.00.14:860][560]LogModuleManager: Shutting down and abandoning module VPUtilities (600)
+[2022.11.11-04.00.14:861][560]LogModuleManager: Shutting down and abandoning module VirtualCamera (598)
+[2022.11.11-04.00.14:863][560]LogModuleManager: Shutting down and abandoning module AdvancedWidgets (597)
+[2022.11.11-04.00.14:865][560]LogModuleManager: Shutting down and abandoning module ConcertSyncUI (594)
+[2022.11.11-04.00.14:867][560]LogModuleManager: Shutting down and abandoning module OculusInput (592)
+[2022.11.11-04.00.14:868][560]LogModuleManager: Shutting down and abandoning module DMXProtocolBlueprintGraph (590)
+[2022.11.11-04.00.14:870][560]LogModuleManager: Shutting down and abandoning module ARUtilities (588)
+[2022.11.11-04.00.14:871][560]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (586)
+[2022.11.11-04.00.14:873][560]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (584)
+[2022.11.11-04.00.14:875][560]LogModuleManager: Shutting down and abandoning module InterchangePipelines (582)
+[2022.11.11-04.00.14:877][560]LogModuleManager: Shutting down and abandoning module InterchangeExport (580)
+[2022.11.11-04.00.14:879][560]LogModuleManager: Shutting down and abandoning module InterchangeMessages (578)
+[2022.11.11-04.00.14:880][560]LogModuleManager: Shutting down and abandoning module InterchangeImport (576)
+[2022.11.11-04.00.14:882][560]LogModuleManager: Shutting down and abandoning module InterchangeNodes (574)
+[2022.11.11-04.00.14:885][560]LogModuleManager: Shutting down and abandoning module MultiUserClientLibrary (572)
+[2022.11.11-04.00.14:885][560]LogModuleManager: Shutting down and abandoning module MultiUserClient (570)
+[2022.11.11-04.00.14:886][560]LogModuleManager: Shutting down and abandoning module ConcertSyncClient (569)
+[2022.11.11-04.00.14:888][560]LogModuleManager: Shutting down and abandoning module Synthesis (566)
+[2022.11.11-04.00.14:889][560]LogModuleManager: Shutting down and abandoning module ResonanceAudio (564)
+[2022.11.11-04.00.14:891][560]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (562)
+[2022.11.11-04.00.14:893][560]LogModuleManager: Shutting down and abandoning module OSC (560)
+[2022.11.11-04.00.14:895][560]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (558)
+[2022.11.11-04.00.14:895][560]LogModuleManager: Shutting down and abandoning module DisplayClusterRemoteControlInterceptor (556)
+[2022.11.11-04.00.14:896][560]LogDisplayClusterRemoteControlInterceptor: DisplayClusterRemoteControlInterceptor has been unregistered
+[2022.11.11-04.00.14:899][560]LogModuleManager: Shutting down and abandoning module DisplayClusterStageMonitoring (554)
+[2022.11.11-04.00.14:900][560]LogModuleManager: Shutting down and abandoning module DisplayClusterMessageInterception (552)
+[2022.11.11-04.00.14:900][560]LogModuleManager: Shutting down and abandoning module DisplayClusterProjection (550)
+[2022.11.11-04.00.14:900][560]LogDisplayClusterProjection: Projection module shutdown
+[2022.11.11-04.00.14:902][560]LogDisplayClusterProjection: Un-registering <camera> projection factory...
+[2022.11.11-04.00.14:902][560]LogDisplayClusterRender: Unregistering factory for projection policy: camera
+[2022.11.11-04.00.14:903][560]LogDisplayClusterRender: Unregistered factory for projection policy: camera
+[2022.11.11-04.00.14:903][560]LogDisplayClusterProjection: Un-registering <simple> projection factory...
+[2022.11.11-04.00.14:905][560]LogDisplayClusterRender: Unregistering factory for projection policy: simple
+[2022.11.11-04.00.14:905][560]LogDisplayClusterRender: Unregistered factory for projection policy: simple
+[2022.11.11-04.00.14:906][560]LogDisplayClusterProjection: Un-registering <mpcdi> projection factory...
+[2022.11.11-04.00.14:906][560]LogDisplayClusterRender: Unregistering factory for projection policy: mpcdi
+[2022.11.11-04.00.14:907][560]LogDisplayClusterRender: Unregistered factory for projection policy: mpcdi
+[2022.11.11-04.00.14:907][560]LogDisplayClusterProjection: Un-registering <mesh> projection factory...
+[2022.11.11-04.00.14:908][560]LogDisplayClusterRender: Unregistering factory for projection policy: mesh
+[2022.11.11-04.00.14:908][560]LogDisplayClusterRender: Unregistered factory for projection policy: mesh
+[2022.11.11-04.00.14:908][560]LogDisplayClusterProjection: Un-registering <easyblend> projection factory...
+[2022.11.11-04.00.14:910][560]LogDisplayClusterRender: Unregistering factory for projection policy: easyblend
+[2022.11.11-04.00.14:910][560]LogDisplayClusterRender: Unregistered factory for projection policy: easyblend
+[2022.11.11-04.00.14:910][560]LogDisplayClusterProjection: Un-registering <vioso> projection factory...
+[2022.11.11-04.00.14:911][560]LogDisplayClusterRender: Unregistering factory for projection policy: vioso
+[2022.11.11-04.00.14:913][560]LogDisplayClusterRender: Unregistered factory for projection policy: vioso
+[2022.11.11-04.00.14:913][560]LogDisplayClusterProjection: Un-registering <manual> projection factory...
+[2022.11.11-04.00.14:914][560]LogDisplayClusterRender: Unregistering factory for projection policy: manual
+[2022.11.11-04.00.14:914][560]LogDisplayClusterRender: Unregistered factory for projection policy: manual
+[2022.11.11-04.00.14:914][560]LogDisplayClusterProjection: Un-registering <domeprojection> projection factory...
+[2022.11.11-04.00.14:916][560]LogDisplayClusterRender: Unregistering factory for projection policy: domeprojection
+[2022.11.11-04.00.14:916][560]LogDisplayClusterRender: Unregistered factory for projection policy: domeprojection
+[2022.11.11-04.00.14:917][560]LogDisplayClusterProjection: Un-registering <link> projection factory...
+[2022.11.11-04.00.14:918][560]LogDisplayClusterRender: Unregistering factory for projection policy: link
+[2022.11.11-04.00.14:918][560]LogDisplayClusterRender: Unregistered factory for projection policy: link
+[2022.11.11-04.00.14:919][560]LogDisplayClusterProjection: Projection module has been destroyed
+[2022.11.11-04.00.14:919][560]LogModuleManager: Shutting down and abandoning module DisplayCluster (548)
+[2022.11.11-04.00.14:919][560]LogDisplayClusterModule: Cleaning up internals...
+[2022.11.11-04.00.14:920][560]LogDisplayClusterCluster: Releasing cluster manager...
+[2022.11.11-04.00.14:920][560]LogModuleManager: Shutting down and abandoning module ModelingOperators (546)
+[2022.11.11-04.00.14:921][560]LogModuleManager: Shutting down and abandoning module ModelingComponents (544)
+[2022.11.11-04.00.14:921][560]LogModuleManager: Shutting down and abandoning module MeshModelingTools (542)
+[2022.11.11-04.00.14:921][560]LogModuleManager: Shutting down and abandoning module TakeMovieScene (540)
+[2022.11.11-04.00.14:922][560]LogModuleManager: Shutting down and abandoning module GooglePAD (538)
+[2022.11.11-04.00.14:922][560]LogModuleManager: Shutting down and abandoning module RemoteControlProtocol (536)
+[2022.11.11-04.00.14:922][560]LogModuleManager: Shutting down and abandoning module RemoteControlCommon (534)
+[2022.11.11-04.00.14:923][560]LogModuleManager: Shutting down and abandoning module WebRemoteControl (532)
+[2022.11.11-04.00.14:923][560]LogModuleManager: Shutting down and abandoning module RemoteControl (530)
+[2022.11.11-04.00.14:924][560]LogModuleManager: Shutting down and abandoning module RemoteControlInterception (528)
+[2022.11.11-04.00.14:924][560]LogModuleManager: Shutting down and abandoning module DynamicMesh (526)
+[2022.11.11-04.00.14:924][560]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (524)
+[2022.11.11-04.00.14:925][560]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (522)
+[2022.11.11-04.00.14:925][560]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (521)
+[2022.11.11-04.00.14:925][560]LogModuleManager: Shutting down and abandoning module GeometryCache (518)
+[2022.11.11-04.00.14:926][560]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (517)
+[2022.11.11-04.00.14:926][560]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (514)
+[2022.11.11-04.00.14:926][560]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (512)
+[2022.11.11-04.00.14:927][560]LogModuleManager: Shutting down and abandoning module CableComponent (510)
+[2022.11.11-04.00.14:930][560]LogModuleManager: Shutting down and abandoning module AudioCapture (508)
+[2022.11.11-04.00.14:930][560]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (507)
+[2022.11.11-04.00.14:931][560]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (504)
+[2022.11.11-04.00.14:931][560]LogModuleManager: Shutting down and abandoning module AssetTags (502)
+[2022.11.11-04.00.14:931][560]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (500)
+[2022.11.11-04.00.14:932][560]LogModuleManager: Shutting down and abandoning module AppleImageUtils (498)
+[2022.11.11-04.00.14:932][560]LogModuleManager: Shutting down and abandoning module AndroidPermission (496)
+[2022.11.11-04.00.14:933][560]LogModuleManager: Shutting down and abandoning module WebSocketNetworking (494)
+[2022.11.11-04.00.14:933][560]LogModuleManager: Shutting down and abandoning module VCamCore (492)
+[2022.11.11-04.00.14:933][560]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (490)
+[2022.11.11-04.00.14:934][560]LogOpenImageDenoise: OIDN shutting down
+[2022.11.11-04.00.14:934][560]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (488)
+[2022.11.11-04.00.14:935][560]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (486)
+[2022.11.11-04.00.14:935][560]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (485)
+[2022.11.11-04.00.14:935][560]LogModuleManager: Shutting down and abandoning module ChaosNiagara (480)
+[2022.11.11-04.00.14:936][560]LogModuleManager: Shutting down and abandoning module BackChannel (478)
+[2022.11.11-04.00.14:936][560]LogModuleManager: Shutting down and abandoning module AutomationUtils (476)
+[2022.11.11-04.00.14:937][560]LogModuleManager: Shutting down and abandoning module TemplateSequence (474)
+[2022.11.11-04.00.14:937][560]LogModuleManager: Shutting down and abandoning module SequencerScripting (472)
+[2022.11.11-04.00.14:937][560]LogModuleManager: Shutting down and abandoning module UEOpenExrRTTI (470)
+[2022.11.11-04.00.14:938][560]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineRenderPasses (468)
+[2022.11.11-04.00.14:938][560]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineSettings (466)
+[2022.11.11-04.00.14:938][560]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineCore (464)
+[2022.11.11-04.00.14:939][560]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (463)
+[2022.11.11-04.00.14:939][560]LogModuleManager: Shutting down and abandoning module TimecodeSynchronizer (460)
+[2022.11.11-04.00.14:939][560]LogModuleManager: Shutting down and abandoning module MediaFrameworkUtilities (458)
+[2022.11.11-04.00.14:940][560]LogModuleManager: Shutting down and abandoning module MediaCompositing (456)
+[2022.11.11-04.00.14:940][560]LogModuleManager: Shutting down and abandoning module ImgMedia (454)
+[2022.11.11-04.00.14:941][560]LogModuleManager: Shutting down and abandoning module AjaMediaOutput (452)
+[2022.11.11-04.00.14:941][560]LogModuleManager: Shutting down and abandoning module AjaMedia (450)
+[2022.11.11-04.00.14:941][560]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (448)
+[2022.11.11-04.00.14:942][560]LogModuleManager: Shutting down and abandoning module HotReload (447)
+[2022.11.11-04.00.14:945][560]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (444)
+[2022.11.11-04.00.14:946][560]LogModuleManager: Shutting down and abandoning module UObjectPlugin (442)
+[2022.11.11-04.00.14:946][560]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (440)
+[2022.11.11-04.00.14:946][560]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (438)
+[2022.11.11-04.00.14:947][560]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (436)
+[2022.11.11-04.00.14:947][560]LogModuleManager: Shutting down and abandoning module Composure (434)
+[2022.11.11-04.00.14:947][560]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (432)
+[2022.11.11-04.00.14:948][560]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (430)
+[2022.11.11-04.00.14:948][560]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (428)
+[2022.11.11-04.00.14:949][560]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (426)
+[2022.11.11-04.00.14:949][560]LogModuleManager: Shutting down and abandoning module LiveLink (424)
+[2022.11.11-04.00.15:582][560]LogModuleManager: Shutting down and abandoning module ControlRigSpline (422)
+[2022.11.11-04.00.15:582][560]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (420)
+[2022.11.11-04.00.15:583][560]LogModuleManager: Shutting down and abandoning module ConcertSyncCore (418)
+[2022.11.11-04.00.15:584][560]LogModuleManager: Shutting down and abandoning module DMXProtocolSACN (416)
+[2022.11.11-04.00.15:584][560]LogModuleManager: Shutting down and abandoning module DMXProtocolArtNet (414)
+[2022.11.11-04.00.15:584][560]LogModuleManager: Shutting down and abandoning module DMXProtocol (412)
+[2022.11.11-04.00.15:585][560]LogModuleManager: Shutting down and abandoning module SQLiteCore (410)
+[2022.11.11-04.00.15:585][560]LogModuleManager: Shutting down and abandoning module Concert (408)
+[2022.11.11-04.00.15:586][560]LogModuleManager: Shutting down and abandoning module ConcertTransport (407)
+[2022.11.11-04.00.15:586][560]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (404)
+[2022.11.11-04.00.15:586][560]LogModuleManager: Shutting down and abandoning module SoundFields (402)
+[2022.11.11-04.00.15:587][560]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (400)
+[2022.11.11-04.00.15:587][560]LogModuleManager: Shutting down and abandoning module SignificanceManager (398)
+[2022.11.11-04.00.15:588][560]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (396)
+[2022.11.11-04.00.15:588][560]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (394)
+[2022.11.11-04.00.15:588][560]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (393)
+[2022.11.11-04.00.15:589][560]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (390)
+[2022.11.11-04.00.15:589][560]LogModuleManager: Shutting down and abandoning module VCamInput (388)
+[2022.11.11-04.00.15:590][560]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (386)
+[2022.11.11-04.00.15:590][560]LogModuleManager: Shutting down and abandoning module PBIK (384)
+[2022.11.11-04.00.15:590][560]LogModuleManager: Shutting down and abandoning module FullBodyIK (382)
+[2022.11.11-04.00.15:591][560]LogModuleManager: Shutting down and abandoning module ActorSequence (380)
+[2022.11.11-04.00.15:591][560]LogModuleManager: Shutting down and abandoning module PixelStreaming (378)
+[2022.11.11-04.00.15:592][560]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (376)
+[2022.11.11-04.00.15:594][560]LogModuleManager: Shutting down and abandoning module UdpMessaging (374)
+[2022.11.11-04.00.15:695][560]LogModuleManager: Shutting down and abandoning module TcpMessaging (372)
+[2022.11.11-04.00.15:796][560]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (370)
+[2022.11.11-04.00.15:796][560]LogModuleManager: Shutting down and abandoning module Niagara (368)
+[2022.11.11-04.00.15:797][560]LogModuleManager: Shutting down and abandoning module SignalProcessing (367)
+[2022.11.11-04.00.15:797][560]LogModuleManager: Shutting down and abandoning module NiagaraEditor (365)
+[2022.11.11-04.00.15:798][560]LogModuleManager: Shutting down and abandoning module ContentBrowser (364)
+[2022.11.11-04.00.15:798][560]LogModuleManager: Shutting down and abandoning module ToolMenus (363)
+[2022.11.11-04.00.15:799][560]LogModuleManager: Shutting down and abandoning module CollectionManager (361)
+[2022.11.11-04.00.15:800][560]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (360)
+[2022.11.11-04.00.15:801][560]LogModuleManager: Shutting down and abandoning module ContentBrowserData (357)
+[2022.11.11-04.00.15:802][560]LogModuleManager: Shutting down and abandoning module NiagaraCore (352)
+[2022.11.11-04.00.15:803][560]LogModuleManager: Shutting down and abandoning module FacialAnimation (350)
+[2022.11.11-04.00.15:804][560]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (348)
+[2022.11.11-04.00.15:805][560]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (346)
+[2022.11.11-04.00.15:805][560]LogModuleManager: Shutting down and abandoning module TreeMap (345)
+[2022.11.11-04.00.15:806][560]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (342)
+[2022.11.11-04.00.15:807][560]LogModuleManager: Shutting down and abandoning module AnimationSharing (340)
+[2022.11.11-04.00.15:808][560]LogModuleManager: Shutting down and abandoning module GameplayCameras (338)
+[2022.11.11-04.00.15:809][560]LogModuleManager: Shutting down and abandoning module Paper2D (336)
+[2022.11.11-04.00.15:809][560]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (334)
+[2022.11.11-04.00.15:810][560]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (332)
+[2022.11.11-04.00.15:811][560]LogModuleManager: Shutting down and abandoning module IKRig (330)
+[2022.11.11-04.00.15:812][560]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (328)
+[2022.11.11-04.00.15:813][560]LogModuleManager: Shutting down and abandoning module ControlRig (326)
+[2022.11.11-04.00.15:813][560]LogModuleManager: Shutting down and abandoning module LevelSequence (325)
+[2022.11.11-04.00.15:814][560]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (322)
+[2022.11.11-04.00.15:814][560]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (320)
+[2022.11.11-04.00.15:814][560]LogModuleManager: Shutting down and abandoning module AndroidFileServer (318)
+[2022.11.11-04.00.15:815][560]LogModuleManager: Shutting down and abandoning module BlackmagicMediaOutput (316)
+[2022.11.11-04.00.15:818][560]LogModuleManager: Shutting down and abandoning module BlackmagicMedia (314)
+[2022.11.11-04.00.15:820][560]LogModuleManager: Shutting down and abandoning module MediaIOCore (313)
+[2022.11.11-04.00.15:820][560]LogModuleManager: Shutting down and abandoning module BlueprintMaterialTextureNodes (310)
+[2022.11.11-04.00.15:821][560]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (308)
+[2022.11.11-04.00.15:821][560]LogModuleManager: Shutting down and abandoning module PacketHandler (306)
+[2022.11.11-04.00.15:821][560]LogModuleManager: Shutting down and abandoning module AnimationDataController (304)
+[2022.11.11-04.00.15:822][560]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (302)
+[2022.11.11-04.00.15:822][560]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (300)
+[2022.11.11-04.00.15:823][560]LogModuleManager: Shutting down and abandoning module MediaAssets (298)
+[2022.11.11-04.00.15:823][560]LogModuleManager: Shutting down and abandoning module Overlay (296)
+[2022.11.11-04.00.15:823][560]LogModuleManager: Shutting down and abandoning module OverlayEditor (295)
+[2022.11.11-04.00.15:824][560]LogModuleManager: Shutting down and abandoning module VREditor (292)
+[2022.11.11-04.00.15:824][560]LogModuleManager: Shutting down and abandoning module StringTableEditor (290)
+[2022.11.11-04.00.15:825][560]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (288)
+[2022.11.11-04.00.15:825][560]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (286)
+[2022.11.11-04.00.15:825][560]LogModuleManager: Shutting down and abandoning module FunctionalTesting (284)
+[2022.11.11-04.00.15:826][560]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (282)
+[2022.11.11-04.00.15:826][560]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (281)
+[2022.11.11-04.00.15:826][560]LogModuleManager: Shutting down and abandoning module UMG (278)
+[2022.11.11-04.00.15:827][560]LogModuleManager: Shutting down and abandoning module UMGEditor (277)
+[2022.11.11-04.00.15:827][560]LogModuleManager: Shutting down and abandoning module Sequencer (276)
+[2022.11.11-04.00.15:827][560]LogModuleManager: Shutting down and abandoning module SlateReflector (270)
+[2022.11.11-04.00.15:828][560]LogModuleManager: Shutting down and abandoning module Slate (268)
+[2022.11.11-04.00.15:828][560]LogModuleManager: Shutting down and abandoning module SlateCore (266)
+[2022.11.11-04.00.15:830][560]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (264)
+[2022.11.11-04.00.15:830][560]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (262)
+[2022.11.11-04.00.15:831][560]LogModuleManager: Shutting down and abandoning module UnrealEd (260)
+[2022.11.11-04.00.15:835][560]LogModuleManager: Shutting down and abandoning module MRMesh (258)
+[2022.11.11-04.00.15:836][560]LogModuleManager: Shutting down and abandoning module Messaging (256)
+[2022.11.11-04.00.15:836][560]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (254)
+[2022.11.11-04.00.15:836][560]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (252)
+[2022.11.11-04.00.15:837][560]LogModuleManager: Shutting down and abandoning module Networking (250)
+[2022.11.11-04.00.15:837][560]LogModuleManager: Shutting down and abandoning module Core (248)
+[2022.11.11-04.00.15:838][560]LogModuleManager: Shutting down and abandoning module MaterialEditor (246)
+[2022.11.11-04.00.15:838][560]LogModuleManager: Shutting down and abandoning module MovieSceneTools (244)
+[2022.11.11-04.00.15:839][560]LogModuleManager: Shutting down and abandoning module EditorStyle (243)
+[2022.11.11-04.00.15:839][560]LogModuleManager: Shutting down and abandoning module KismetCompiler (240)
+[2022.11.11-04.00.15:839][560]LogModuleManager: Shutting down and abandoning module MeshBuilder (238)
+[2022.11.11-04.00.15:840][560]LogModuleManager: Shutting down and abandoning module NaniteBuilder (236)
+[2022.11.11-04.00.15:840][560]LogModuleManager: Shutting down and abandoning module MeshUtilities (234)
+[2022.11.11-04.00.15:841][560]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (233)
+[2022.11.11-04.00.15:841][560]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (232)
+[2022.11.11-04.00.15:841][560]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (231)
+[2022.11.11-04.00.15:842][560]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (229)
+[2022.11.11-04.00.15:842][560]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (227)
+[2022.11.11-04.00.15:842][560]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (225)
+[2022.11.11-04.00.15:843][560]LogModuleManager: Shutting down and abandoning module MaterialBaking (221)
+[2022.11.11-04.00.15:843][560]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (216)
+[2022.11.11-04.00.15:844][560]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (214)
+[2022.11.11-04.00.15:844][560]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (212)
+[2022.11.11-04.00.15:844][560]LogModuleManager: Shutting down and abandoning module DerivedDataCache (210)
+[2022.11.11-04.00.15:847][560]LogModuleManager: Shutting down and abandoning module TargetPlatform (208)
+[2022.11.11-04.00.15:850][560]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (207)
+[2022.11.11-04.00.15:852][560]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (205)
+[2022.11.11-04.00.15:854][560]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (203)
+[2022.11.11-04.00.15:854][560]LogModuleManager: Shutting down and abandoning module AudioFormatBink (201)
+[2022.11.11-04.00.15:854][560]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (199)
+[2022.11.11-04.00.15:855][560]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (197)
+[2022.11.11-04.00.15:855][560]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (195)
+[2022.11.11-04.00.15:855][560]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (193)
+[2022.11.11-04.00.15:857][560]LogModuleManager: Shutting down and abandoning module TextureFormat (191)
+[2022.11.11-04.00.15:858][560]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (190)
+[2022.11.11-04.00.15:858][560]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (188)
+[2022.11.11-04.00.15:859][560]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (186)
+[2022.11.11-04.00.15:859][560]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (184)
+[2022.11.11-04.00.15:859][560]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (182)
+[2022.11.11-04.00.15:860][560]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (180)
+[2022.11.11-04.00.15:862][560]LogModuleManager: Shutting down and abandoning module ImageWrapper (179)
+[2022.11.11-04.00.15:862][560]LogModuleManager: Shutting down and abandoning module TurnkeySupport (175)
+[2022.11.11-04.00.15:862][560]LogModuleManager: Shutting down and abandoning module InputCore (172)
+[2022.11.11-04.00.15:863][560]LogModuleManager: Shutting down and abandoning module Settings (170)
+[2022.11.11-04.00.15:865][560]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (168)
+[2022.11.11-04.00.15:867][560]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (167)
+[2022.11.11-04.00.15:867][560]LogModuleManager: Shutting down and abandoning module Chaos (164)
+[2022.11.11-04.00.15:868][560]LogModuleManager: Shutting down and abandoning module GeometryCore (163)
+[2022.11.11-04.00.15:869][560]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (160)
+[2022.11.11-04.00.15:869][560]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (159)
+[2022.11.11-04.00.15:870][560]LogModuleManager: Shutting down and abandoning module AVEncoder (158)
+[2022.11.11-04.00.15:870][560]LogModuleManager: Shutting down and abandoning module AppleARKitPoseTrackingLiveLink (154)
+[2022.11.11-04.00.15:870][560]LogModuleManager: Shutting down and abandoning module AppleARKitFaceSupport (152)
+[2022.11.11-04.00.15:871][560]LogModuleManager: Shutting down and abandoning module AppleARKit (151)
+[2022.11.11-04.00.15:871][560]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (148)
+[2022.11.11-04.00.15:871][560]LogModuleManager: Shutting down and abandoning module SteamVRInput (146)
+[2022.11.11-04.00.15:872][560]LogModuleManager: Shutting down and abandoning module SteamVR (144)
+[2022.11.11-04.00.15:872][560]LogHMD: Freeing OpenVRDLLHandle.
+[2022.11.11-04.00.15:873][560]LogModuleManager: Shutting down and abandoning module OculusOpenXRHMD (142)
+[2022.11.11-04.00.15:873][560]LogModuleManager: Shutting down and abandoning module OculusHMD (140)
+[2022.11.11-04.00.15:873][560]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (138)
+[2022.11.11-04.00.15:874][560]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (136)
+[2022.11.11-04.00.15:875][560]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (134)
+[2022.11.11-04.00.15:876][560]LogModuleManager: Shutting down and abandoning module OpenXRAR (132)
+[2022.11.11-04.00.15:877][560]LogModuleManager: Shutting down and abandoning module AugmentedReality (131)
+[2022.11.11-04.00.15:877][560]LogModuleManager: Shutting down and abandoning module OpenXRHMD (128)
+[2022.11.11-04.00.15:878][560]LogModuleManager: Shutting down and abandoning module OpenCVHelper (126)
+[2022.11.11-04.00.15:878][560]LogModuleManager: Shutting down and abandoning module DisplayClusterConfiguration (124)
+[2022.11.11-04.00.15:879][560]LogModuleManager: Shutting down and abandoning module DisplayClusterShaders (122)
+[2022.11.11-04.00.15:882][560]LogModuleManager: Shutting down and abandoning module HairStrandsCore (120)
+[2022.11.11-04.00.15:883][560]LogModuleManager: Shutting down and abandoning module CameraCalibrationCore (118)
+[2022.11.11-04.00.15:883][560]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (116)
+[2022.11.11-04.00.15:883][560]LogModuleManager: Shutting down and abandoning module ChunkDownloader (114)
+[2022.11.11-04.00.15:884][560]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (112)
+[2022.11.11-04.00.15:884][560]LogModuleManager: Shutting down and abandoning module RemoteSession (110)
+[2022.11.11-04.00.15:884][560]LogBackChannel: Closing connection FBackChannelConnection Client Socket
+[2022.11.11-04.00.15:885][560]LogModuleManager: Shutting down and abandoning module ColorCorrectRegions (108)
+[2022.11.11-04.00.15:885][560]LogModuleManager: Shutting down and abandoning module ChaosCloth (106)
+[2022.11.11-04.00.15:885][560]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (104)
+[2022.11.11-04.00.15:886][560]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (102)
+[2022.11.11-04.00.15:886][560]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (100)
+[2022.11.11-04.00.15:888][560]LogModuleManager: Shutting down and abandoning module XMPP (95)
+[2022.11.11-04.00.15:888][560]LogModuleManager: Shutting down and abandoning module WebSockets (94)
+[2022.11.11-04.00.15:920][560]LogModuleManager: Shutting down and abandoning module HTTP (91)
+[2022.11.11-04.00.15:920][560]LogHttp: Warning: Cleaning up 0 outstanding Http requests.
+[2022.11.11-04.00.15:953][560]LogModuleManager: Shutting down and abandoning module SSL (90)
+[2022.11.11-04.00.15:954][560]LogModuleManager: Shutting down and abandoning module WmfMedia (86)
+[2022.11.11-04.00.15:957][560]LogModuleManager: Shutting down and abandoning module Media (85)
+[2022.11.11-04.00.15:958][560]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (82)
+[2022.11.11-04.00.15:958][560]LogModuleManager: Shutting down and abandoning module EncoderNVENC (80)
+[2022.11.11-04.00.15:960][560]LogModuleManager: Shutting down and abandoning module CUDA (79)
+[2022.11.11-04.00.15:961][560]LogModuleManager: Shutting down and abandoning module D3D11RHI (77)
+[2022.11.11-04.00.15:963][560]LogModuleManager: Shutting down and abandoning module EncoderAMF (74)
+[2022.11.11-04.00.15:964][560]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (72)
+[2022.11.11-04.00.15:965][560]LogModuleManager: Shutting down and abandoning module NiagaraShader (70)
+[2022.11.11-04.00.15:966][560]LogModuleManager: Shutting down and abandoning module VariantManagerContent (68)
+[2022.11.11-04.00.15:966][560]LogModuleManager: Shutting down and abandoning module DatasmithContent (66)
+[2022.11.11-04.00.15:968][560]LogModuleManager: Shutting down and abandoning module PixWinPlugin (64)
+[2022.11.11-04.00.15:970][560]LogModuleManager: Shutting down and abandoning module OpenCVLensDistortion (62)
+[2022.11.11-04.00.15:971][560]LogModuleManager: Shutting down and abandoning module OpenCVLensCalibration (60)
+[2022.11.11-04.00.15:972][560]LogModuleManager: Shutting down and abandoning module OpenColorIO (58)
+[2022.11.11-04.00.15:973][560]LogModuleManager: Shutting down and abandoning module AISupportModule (56)
+[2022.11.11-04.00.15:974][560]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (54)
+[2022.11.11-04.00.15:975][560]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (52)
+[2022.11.11-04.00.15:977][560]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (50)
+[2022.11.11-04.00.15:977][560]LogModuleManager: Shutting down and abandoning module PlatformCrypto (48)
+[2022.11.11-04.00.15:978][560]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (46)
+[2022.11.11-04.00.15:978][560]LogModuleManager: Shutting down and abandoning module SourceControl (45)
+[2022.11.11-04.00.15:979][560]LogModuleManager: Shutting down and abandoning module XGEController (42)
+[2022.11.11-04.00.15:979][560]LogModuleManager: Shutting down and abandoning module FastBuildController (40)
+[2022.11.11-04.00.15:980][560]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2022.11.11-04.00.15:980][560]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+[2022.11.11-04.00.15:980][560]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2022.11.11-04.00.15:980][560]LogModuleManager: Shutting down and abandoning module Virtualization (32)
+[2022.11.11-04.00.15:981][560]LogModuleManager: Shutting down and abandoning module MessageLog (31)
+[2022.11.11-04.00.15:981][560]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2022.11.11-04.00.15:982][560]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2022.11.11-04.00.15:982][560]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2022.11.11-04.00.15:982][560]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2022.11.11-04.00.15:983][560]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.11.11-04.00.15:983][560]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.11.11-04.00.15:984][560]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.11.11-04.00.15:984][560]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.11.11-04.00.15:984][560]LogModuleManager: Shutting down and abandoning module SandboxFile (12)
+[2022.11.11-04.00.15:985][560]LogModuleManager: Shutting down and abandoning module PakFile (10)
+[2022.11.11-04.00.15:985][560]LogModuleManager: Shutting down and abandoning module RSA (9)
+[2022.11.11-04.00.15:986][560]LogModuleManager: Shutting down and abandoning module NetworkFile (6)
+[2022.11.11-04.00.15:986][560]LogModuleManager: Shutting down and abandoning module StreamingFile (4)
+[2022.11.11-04.00.15:986][560]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2022.11.11-04.00.16:006][560]LogD3D11RHI: Shutdown
+[2022.11.11-04.00.16:006][560]LogD3D11RHI: CleanupD3DDevice
+[2022.11.11-04.00.16:013][560]LogExit: Exiting.
+[2022.11.11-04.00.16:295][560]Log file closed, 11/11/22 04:00:16
