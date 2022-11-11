@@ -1,6 +1,8 @@
 
 # Render
 
+- All texture assets acquired from [PolyHaven](https://polyhaven.com/)
+
 ## Version 1
 
 ### Building
