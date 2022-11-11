@@ -45,4 +45,9 @@ The fog is a volume BSDF from a gradient texture into a color ramp.
 
 # Output
 
+Number of samples: 2048
+Progressive rendering
+Cycles
+4k Image
+
 ![Final Render](Final_Render.png)
