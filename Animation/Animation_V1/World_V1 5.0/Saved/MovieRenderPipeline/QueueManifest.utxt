@@ -1,0 +1,225 @@
+{
+	"GatherableTextData": [],
+	"Thumbnails": {},
+	"Exports": {
+		"PackageMetaData": {
+			"__Class": "Class /Script/CoreUObject.MetaData",
+			"__ObjectFlags": 2,
+			"__bNotForClient": true,
+			"__bNotForServer": true,
+			"__Value": {
+				"Properties": {},
+				"ObjectMetaDataMap": [],
+				"RootMetaDataMap": [
+					[
+						"PackageLocalizationNamespace",
+						"87180C834EEE358EE7A1C0B1B873AB07"
+					]
+				]
+			}
+		},
+		"EditorMoviePipelineQueue:MoviePipelineExecutorJob_0.DefaultConfig.MoviePipelineCommandLineEncoder_1": {
+			"__Class": "Class /Script/MovieRenderPipelineCore.MoviePipelineCommandLineEncoder",
+			"__Outer": "MoviePipelineMasterConfig /Engine/MovieRenderPipeline/Editor/QueueManifest.EditorMoviePipelineQueue:MoviePipelineExecutorJob_0.DefaultConfig",
+			"__bNotAlwaysLoadedForEditorGame": true,
+			"__Value": {
+				"Properties": {
+					"bDeleteSourceFiles": {
+						"__Type": "BoolProperty",
+						"__Value": 1
+					}
+				}
+			}
+		},
+		"EditorMoviePipelineQueue:MoviePipelineExecutorJob_0.DefaultConfig.MoviePipelineDeferredPassBase_0": {
+			"__Class": "Class /Script/MovieRenderPipelineRenderPasses.MoviePipelineDeferredPassBase",
+			"__Outer": "MoviePipelineMasterConfig /Engine/MovieRenderPipeline/Editor/QueueManifest.EditorMoviePipelineQueue:MoviePipelineExecutorJob_0.DefaultConfig",
+			"__bNotAlwaysLoadedForEditorGame": true,
+			"__Value": {
+				"Properties": {}
+			}
+		},
+		"EditorMoviePipelineQueue:MoviePipelineExecutorJob_0": {
+			"__Class": "Class /Script/MovieRenderPipelineCore.MoviePipelineExecutorJob",
+			"__Outer": "MoviePipelineQueue /Engine/MovieRenderPipeline/Editor/QueueManifest.EditorMoviePipelineQueue",
+			"__ObjectFlags": 8,
+			"__bNotAlwaysLoadedForEditorGame": true,
+			"__Value": {
+				"Properties": {
+					"JobName": {
+						"__Type": "StrProperty",
+						"__Value": "Main_Sequence"
+					},
+					"Sequence": {
+						"__Type": "StructProperty",
+						"__StructName": "SoftObjectPath",
+						"__Value": "Object:/Game/Main_Sequence.Main_Sequence"
+					},
+					"Map": {
+						"__Type": "StructProperty",
+						"__StructName": "SoftObjectPath",
+						"__Value": "Object:/Game/Main.Main"
+					},
+					"ShotInfo": {
+						"__Type": "ArrayProperty",
+						"__InnerType": "ObjectProperty",
+						"__Value": [
+							"Object:/Script/MovieRenderPipelineCore.MoviePipelineExecutorShot /Engine/MovieRenderPipeline/Editor/QueueManifest.EditorMoviePipelineQueue:MoviePipelineExecutorJob_0.MoviePipelineExecutorShot_0"
+						]
+					},
+					"Configuration": {
+						"__Type": "ObjectProperty",
+						"__Value": "Object:/Script/MovieRenderPipelineCore.MoviePipelineMasterConfig /Engine/MovieRenderPipeline/Editor/QueueManifest.EditorMoviePipelineQueue:MoviePipelineExecutorJob_0.DefaultConfig"
+					}
+				}
+			}
+		},
+		"EditorMoviePipelineQueue:MoviePipelineExecutorJob_0.MoviePipelineExecutorShot_0": {
+			"__Class": "Class /Script/MovieRenderPipelineCore.MoviePipelineExecutorShot",
+			"__Outer": "MoviePipelineExecutorJob /Engine/MovieRenderPipeline/Editor/QueueManifest.EditorMoviePipelineQueue:MoviePipelineExecutorJob_0",
+			"__bNotAlwaysLoadedForEditorGame": true,
+			"__Value": {
+				"Properties": {
+					"OuterName": {
+						"__Type": "StrProperty",
+						"__Value": "no shot"
+					}
+				}
+			}
+		},
+		"EditorMoviePipelineQueue:MoviePipelineExecutorJob_0.DefaultConfig.MoviePipelineImageSequenceOutput_JPG_0": {
+			"__Class": "Class /Script/MovieRenderPipelineRenderPasses.MoviePipelineImageSequenceOutput_JPG",
+			"__Outer": "MoviePipelineMasterConfig /Engine/MovieRenderPipeline/Editor/QueueManifest.EditorMoviePipelineQueue:MoviePipelineExecutorJob_0.DefaultConfig",
+			"__bNotAlwaysLoadedForEditorGame": true,
+			"__Value": {
+				"Properties": {}
+			}
+		},
+		"EditorMoviePipelineQueue:MoviePipelineExecutorJob_0.DefaultConfig": {
+			"__Class": "Class /Script/MovieRenderPipelineCore.MoviePipelineMasterConfig",
+			"__Outer": "MoviePipelineExecutorJob /Engine/MovieRenderPipeline/Editor/QueueManifest.EditorMoviePipelineQueue:MoviePipelineExecutorJob_0",
+			"__ObjectFlags": 262152,
+			"__bNotAlwaysLoadedForEditorGame": true,
+			"__Value": {
+				"Properties": {
+					"OutputSetting": {
+						"__Type": "ObjectProperty",
+						"__Value": "Object:/Script/MovieRenderPipelineCore.MoviePipelineOutputSetting /Engine/MovieRenderPipeline/Editor/QueueManifest.EditorMoviePipelineQueue:MoviePipelineExecutorJob_0.DefaultConfig.DefaultOutputSetting"
+					},
+					"DisplayName": {
+						"__Type": "StrProperty",
+						"__Value": "DefaultConfig"
+					},
+					"Settings": {
+						"__Type": "ArrayProperty",
+						"__InnerType": "ObjectProperty",
+						"__Value": [
+							"Object:/Script/MovieRenderPipelineRenderPasses.MoviePipelineImageSequenceOutput_JPG /Engine/MovieRenderPipeline/Editor/QueueManifest.EditorMoviePipelineQueue:MoviePipelineExecutorJob_0.DefaultConfig.MoviePipelineImageSequenceOutput_JPG_0",
+							"Object:/Script/MovieRenderPipelineRenderPasses.MoviePipelineDeferredPassBase /Engine/MovieRenderPipeline/Editor/QueueManifest.EditorMoviePipelineQueue:MoviePipelineExecutorJob_0.DefaultConfig.MoviePipelineDeferredPassBase_0",
+							"Object:/Script/MovieRenderPipelineCore.MoviePipelineCommandLineEncoder /Engine/MovieRenderPipeline/Editor/QueueManifest.EditorMoviePipelineQueue:MoviePipelineExecutorJob_0.DefaultConfig.MoviePipelineCommandLineEncoder_1"
+						]
+					}
+				}
+			}
+		},
+		"EditorMoviePipelineQueue:MoviePipelineExecutorJob_0.DefaultConfig.DefaultOutputSetting": {
+			"__Class": "Class /Script/MovieRenderPipelineCore.MoviePipelineOutputSetting",
+			"__Outer": "MoviePipelineMasterConfig /Engine/MovieRenderPipeline/Editor/QueueManifest.EditorMoviePipelineQueue:MoviePipelineExecutorJob_0.DefaultConfig",
+			"__ObjectFlags": 262152,
+			"__bNotAlwaysLoadedForEditorGame": true,
+			"__Value": {
+				"Properties": {
+					"bUseCustomFrameRate": {
+						"__Type": "BoolProperty",
+						"__Value": 1
+					},
+					"OutputFrameRate": {
+						"__Type": "StructProperty",
+						"__StructName": "FrameRate",
+						"__Value": {
+							"Numerator": {
+								"__Type": "IntProperty",
+								"__Value": 30
+							}
+						}
+					},
+					"OutputFrameStep": {
+						"__Type": "IntProperty",
+						"__Value": 2
+					}
+				}
+			}
+		},
+		"EditorMoviePipelineQueue": {
+			"__Class": "Class /Script/MovieRenderPipelineCore.MoviePipelineQueue",
+			"__ObjectFlags": 262155,
+			"__bNotAlwaysLoadedForEditorGame": true,
+			"__bIsAsset": true,
+			"__Value": {
+				"Properties": {
+					"Jobs": {
+						"__Type": "ArrayProperty",
+						"__InnerType": "ObjectProperty",
+						"__Value": [
+							"Object:/Script/MovieRenderPipelineCore.MoviePipelineExecutorJob /Engine/MovieRenderPipeline/Editor/QueueManifest.EditorMoviePipelineQueue:MoviePipelineExecutorJob_0"
+						]
+					}
+				}
+			}
+		}
+	},
+	"Summary": {
+		"Tag": -1641380927,
+		"LegacyFileVersion": -8,
+		"LegacyUE3Version": 864,
+		"FileVersionUE4": 522,
+		"FileVersionUE5": 1004,
+		"FileVersionLicenseeUE4": 0,
+		"CustomVersions": [
+			{
+				"Key": "E4B068EDF49442E9A231DA0B2E46BB41",
+				"Version": 40
+			}
+		],
+		"TotalHeaderSize": 0,
+		"FolderName": "None",
+		"PackageFlags": 1024,
+		"NameCount": 49,
+		"NameOffset": 0,
+		"LocalizationId": "87180C834EEE358EE7A1C0B1B873AB07",
+		"GatherableTextDataCount": 0,
+		"GatherableTextDataOffset": 0,
+		"ExportCount": 9,
+		"ExportOffset": 0,
+		"ImportCount": 15,
+		"ImportOffset": 0,
+		"DependsOffset": 0,
+		"SoftPackageReferencesCount": 0,
+		"SoftPackageReferencesOffset": 0,
+		"SearchableNamesOffset": 0,
+		"ThumbnailTableOffset": 0,
+		"Guid": "F5CFA2F346A0E93472E0DD98B1CF500A",
+		"PersistentGuid": "6A6F8D3F43B1B458852E16BB8C579DA6",
+		"GenerationCount": 1,
+		"Generations": [
+			{
+				"ExportCount": 9,
+				"NameCount": 49
+			}
+		],
+		"SavedByEngineVersion": "5.0.3-20979098+++UE5+Release-5.0",
+		"CompatibleWithEngineVersion": "5.0.0-19505902+++UE5+Release-5.0",
+		"CompressionFlags": 0,
+		"CompressedChunks": [],
+		"PackageSource": 2952946835,
+		"AdditionalPackagesToCook": [],
+		"AssetRegistryDataOffset": 0,
+		"BulkDataStartOffset": 0,
+		"WorldTileInfoDataOffset": 0,
+		"ChunkIDs": [],
+		"PreloadDependencyCount": 0,
+		"PreloadDependencyOffset": 0,
+		"NamesReferencedFromExportDataCount": 27,
+		"PayloadTocOffset": -1
+	}
+}
