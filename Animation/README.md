@@ -11,6 +11,4 @@ The camera animation was created in unreal using theire sequencer and having the
 
 ## Output
 
-
 https://user-images.githubusercontent.com/46905566/201378258-5a196993-2922-4d98-aa62-fc5d691feef2.mp4
-
