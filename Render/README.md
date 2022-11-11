@@ -47,7 +47,7 @@ The fog is a volume BSDF from a gradient texture into a color ramp.
 
 ## Lighting
 
-The scene lighting comes from two main places, mostly the background texture and some from the lamps in the render which have small point lights in the buld at the top.
+The scene lighting comes from two main places, mostly the background texture and some from the lamps in the render which have small point lights in the bulb at the top.
 
 # Output
 
