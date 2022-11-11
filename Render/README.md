@@ -43,11 +43,16 @@ The lamps are a dark thin cylinder with a glass sphere at the top in a cage make
 
 The fog is a volume BSDF from a gradient texture into a color ramp.
 
+## Lighting
+
+The scene lighting comes from two main places, mostly the background texture and some from the lamps in the render which have small point lights in the buld at the top.
+
 # Output
 
-Number of samples: 2048
-Progressive rendering
-Cycles
-4k Image
+Number of samples: 2048 \
+Progressive rendering \
+Cycles \
+4k Image (3840x2160) \
+Hillbert Spiral
 
 ![Final Render](Final_Render.png)
