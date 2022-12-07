@@ -31,3 +31,39 @@ Attempt 4 was mainly a refactor of all code I had implemented before, I created 
 
 The final structure of the code is there are multiple maps one which holds a string -> context and another which holds a string -> vector<Object>. The context map is accessably by using the type of each object so you only need to loop through the object loop every frame.
 
+
+  
+## Scene
+  
+The scene idea is built off of the models of the Render and Animation, it is very cut down to stop the performance being terrable (Machine dependant). The scene is built up of the the ground plane, 8 Trees, 4 straight conveyors and 4 corner conveyors and a cube on said conveyors. The tree are randomly rotated around their vertical axis, to avoid them all looking the same from the top down and to make the clearing in the middle more interesting. The conveyors create a loop in the center of the clearing and the cube is running on the loop of conveyors.
+  
+  
+## Animations
+  
+The animation of the cube is programmed to change the objects velocity when it reaches a certain point in the world. If I were to continue this project I would look into how the animations of a gltf file can be read and run to allow animations to be imported and run easily.
+  
+  
+## Shaders / Lights
+  
+### Fragment
+  
+The fragment shader is currently only being used for the lighting calculations, it is using the code we discussed in the lectures so that it can handle multiple lights (up to 4 currently). I had looked into implementing shadows which would have also used the Fragment shader however I believe it would have taken much longer than I had to determine where the code was needing implemented, however given more time I believe it could be implemented.
+  
+
+### Vertex
+ 
+  
+The vertex shader is also the code discussed during lectures for lighting to be implemented. The vertex shader would have been changed slightly if shadows were to be implemented.
+ 
+  
+## Interactions
+  
+  
+Current interactions are
+  
+- Ambient lighting scale
+- Diffuse lighting scale
+- Specular lighting scale
+- Changing light positions
+- Changing light colours
+- A moveable FPS style camera
