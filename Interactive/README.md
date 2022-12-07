@@ -67,3 +67,6 @@ Current interactions are
 - Changing light positions
 - Changing light colours
 - A moveable FPS style camera
+  
+  
+https://user-images.githubusercontent.com/46905566/206070609-2d029feb-9e80-4fe0-9693-efd09c4168dc.mp4
